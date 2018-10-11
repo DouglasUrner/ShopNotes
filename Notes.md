@@ -26,7 +26,7 @@ Festool LR-32
 
 [Tom’s Torsion Box Workbench](https://www.popularwoodworking.com/projects/toms-torsion-box-workbench/) - a later version of the older bench...
 
-John White's [New Fangled Workbench](http://content.jettools.com/content/jet50/wood/freebies/jet50_workbenchplan.pdf) and the follow article [New-Fangled Workbench Revisited](http://www.finewoodworking.com/workshop/video/new-fangled-workbench-revisited.aspx)
+John White's [New Fangled Workbench](http://content.jettools.com/content/jet50/wood/freebies/jet50_workbenchplan.pdf) and the follow up video [New-Fangled Workbench Revisited](http://www.finewoodworking.com/workshop/video/new-fangled-workbench-revisited.aspx) - relatively inexpensive traditional handwork bench design using Jorgenson pipe clamps.
 
 Beam Bench
 
