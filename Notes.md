@@ -20,15 +20,17 @@ Festool LR-32
 
 ### Other Interesting Bench Designs
 
-[Tom Casper's Box-Beam Bench](https://www.popularwoodworking.com/woodworking-blogs/diy-workbench-plans-box-beam-bench/) - [Link to plans](http://bit.ly/BoxBeamBench)
+**Tom Casper's Torsion Box Benches:**
 
-[Tom Casper's *Workbench in A Weekend*](http://www.workbenchdesign.net/WeekendWorkbench_small.pdf) - older version of the same concept with a tail vise made from a Jorgenson clamp. Article about it [Workbench 1.0](http://www.workbenchdesign.net/bench1.html).
+* [*Box-Beam Bench*](https://www.popularwoodworking.com/woodworking-blogs/diy-workbench-plans-box-beam-bench/) - [Link to plans](http://bit.ly/BoxBeamBench)
 
-[Tom’s Torsion Box Workbench](https://www.popularwoodworking.com/projects/toms-torsion-box-workbench/) - a later version of the older bench...
+* [*Workbench in A Weekend*](http://www.workbenchdesign.net/WeekendWorkbench_small.pdf) - older version of the same concept with a tail vise made from a Jorgenson clamp. Article about it [Workbench 1.0](http://www.workbenchdesign.net/bench1.html).
 
-John White's [New Fangled Workbench](http://content.jettools.com/content/jet50/wood/freebies/jet50_workbenchplan.pdf) and the follow up video [New-Fangled Workbench Revisited](http://www.finewoodworking.com/workshop/video/new-fangled-workbench-revisited.aspx) - relatively inexpensive traditional handwork bench design using Jorgenson pipe clamps.
+* [Tom’s Torsion Box Workbench](https://www.popularwoodworking.com/projects/toms-torsion-box-workbench/) - a later version of the older bench...
 
-Beam Bench
+**John White's** [*New Fangled Workbench*](http://content.jettools.com/content/jet50/wood/freebies/jet50_workbenchplan.pdf) and the follow up video [New-Fangled Workbench Revisited](http://www.finewoodworking.com/workshop/video/new-fangled-workbench-revisited.aspx) - relatively inexpensive traditional handwork bench design using Jorgenson pipe clamps.
+
+**Josh Finn's** "Beam Bench System" [*Forget What You Know About Workbenches*](https://static1.squarespace.com/static/5262b963e4b0823534b296d1/t/530ba471e4b0e23db62d05ee/1393271921813/workbench%2520article%25202009%5Bsmallpdf.com%5D.pdf)
 
 Tim W
 
