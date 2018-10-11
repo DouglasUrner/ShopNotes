@@ -20,7 +20,13 @@ Festool LR-32
 
 ### Other Interesting Bench Designs
 
-New Fangled Bench
+[Tom Casper's Box-Beam Bench](https://www.popularwoodworking.com/woodworking-blogs/diy-workbench-plans-box-beam-bench/) - [Link to plans](http://bit.ly/BoxBeamBench)
+
+[Tom Casper's *Workbench in A Weekend*](http://www.workbenchdesign.net/WeekendWorkbench_small.pdf) - older version of the same concept with a tail vise made from a Jorgenson clamp. Article about it [Workbench 1.0](http://www.workbenchdesign.net/bench1.html).
+
+[Tom’s Torsion Box Workbench](https://www.popularwoodworking.com/projects/toms-torsion-box-workbench/) - a later version of the older bench...
+
+John White's [New Fangled Workbench](http://content.jettools.com/content/jet50/wood/freebies/jet50_workbenchplan.pdf) and the follow article [New-Fangled Workbench Revisited](http://www.finewoodworking.com/workshop/video/new-fangled-workbench-revisited.aspx)
 
 Beam Bench
 
