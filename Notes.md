@@ -1,6 +1,6 @@
 ## Portable / Knockdown Workbench Design
 
-Tim Wilmonts [MF-TC - Multi-Function Tool Cart](https://benchworks.be/en/projects/mf-tc-multifunction-tool-cart/)
+Tim Wilmont's [MF-TC - Multi-Function Tool Cart](https://benchworks.be/en/projects/mf-tc-multifunction-tool-cart/)
 
 [MFT Slab](http://www.multifunctionslab.com) - sells a CAD file. [Core77 article](https://www.core77.com/posts/66171/Multifunction-Slab-Work-Table)
 
@@ -32,7 +32,7 @@ Festool LR-32
 
 **Josh Finn's** "Beam Bench System" [*Forget What You Know About Workbenches*](https://static1.squarespace.com/static/5262b963e4b0823534b296d1/t/530ba471e4b0e23db62d05ee/1393271921813/workbench%2520article%25202009%5Bsmallpdf.com%5D.pdf)
 
-Tim W
+**Tim Wilmot's** ["System Workshop"](https://benchworks.be/en/projects/system-workshop/) bench design
 
 ### Vices
 
