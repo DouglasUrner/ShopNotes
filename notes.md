@@ -50,6 +50,10 @@ Festool LR-32
 
 [Carpentry Tool Organization, Makita, Festool Systainer Build](https://www.youtube.com/watch?v=LHMyhuZo2a0)
 
+[Sketchup Model for Systainer inserts](https://3dwarehouse.sketchup.com/model/edf07d0204c1820b7adda53967d00c3f/Systainer-Inserts) - article on FOG.
+
+[Sortainer/Systainer Organization](http://festoolownersgroup.com/festool-and-tanos-systainers/sortainersystainer-organization/)
+
 ### DIY Sysports
 
 [Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
