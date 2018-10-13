@@ -10,4 +10,6 @@ Notes on installing, learning, and using SketchUp for designing furniture and ji
 
 Sites and other resources specifically aimed at woodworkers.
 
+[Sketchup for Woodworkers](http://sketchupforwoodworkers.com)
+
 [Popular Woodworking SketchUp Tutorials](https://www.popularwoodworking.com/sketchup-tutorials/)
