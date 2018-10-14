@@ -2,6 +2,12 @@
 
 ## LR-32
 
+### Notable Numbers
+
+FS Rail edge to center of router bit: 27 mm
+
+### Usage
+
 Brice Burrell's [Festool LR 32-SYS tutorial](https://cdn.shopify.com/s/files/1/0027/0322/files/LR32_tutorial.pdf)
 
 ## Kapex
