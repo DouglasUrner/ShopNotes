@@ -7,3 +7,9 @@
 ### Adhesive Backed Rules
 
 [Oregon Rule](https://oregonrule.com)
+
+## Saw Blades & Router Bits
+
+[Forrest](https://www.forrestblades.com)
+
+[Carbide Processors]()
