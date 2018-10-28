@@ -10,6 +10,8 @@
 
 ## Saw Blades & Router Bits
 
-[Forrest](https://www.forrestblades.com)
+[Forrest Manufacturing](https://www.forrestblades.com) - table, radial arm, and miter saw blades
 
-[Carbide Processors](http://www.carbideprocessors.com)
+[Carbide Processors](http://www.carbideprocessors.com) - carbide tipped cutting tools
+
+[Suffolk Machine - Timberwolf](http://timberwolfblades.com/index.php) - bandsaw blades
