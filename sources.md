@@ -38,7 +38,7 @@
 
 ## Repair Parts
 
-[eReplacementParts.com](https://www.ereplacementparts.com)
+[eReplacementParts.com](https://www.ereplacementparts.com) - Dewalt parts
 
 [Festool Parts]()
 
