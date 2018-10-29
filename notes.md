@@ -20,6 +20,8 @@ Steve Adams' [Festool MFT - Secrets Unveiled](http://www.festoolownersgroup.com/
 
 ### 20 mm Dogs and related items
 
+Michael Gildersleave's [Expanding Dogs](https://www.youtube.com/watch?v=Qchujv3JjIg) - for securing jigs and the like on an MFT.
+
 ### MFT Drilling Jigs
 
 Festool LR-32
