@@ -38,7 +38,7 @@
 
 ## Repair Parts
 
-[ereplacementparts](https://www.ereplacementparts.com)
+[eReplacementParts.com](https://www.ereplacementparts.com)
 
 [Festool Parts]()
 
