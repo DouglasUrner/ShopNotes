@@ -1,5 +1,11 @@
 [Everything you wanted to know about Plug-Its conversions (USA Version)](http://festoolownersgroup.com/festool-jigs-tool-enhancements/everything-you-wanted-to-know-about-plug-its-conversions-(usa-version)/)
 
+## Dust Extractors
+
+Replacement hood for CT26/36 (convert to T-Loc) #204040
+
+Bluetooth module
+
 ## MFT Dimensions
 
 ### MFT/3
