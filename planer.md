@@ -2,6 +2,10 @@
 
 ### Setup & Tuning
 
+* Raising the infeed and outfeed tables about 1-2mm (about the thickness of a penny) can help to prevent snipe, as can supporting the end of the board as it goes in and comes out.
+
+
+
 [10 tune-up tips for perfect planing](https://www.woodmagazine.com/woodworking-tools/power/tune-up-tips-for-perfect-planing?mode=step_by_step)
 
 ### Accessories & Mods
