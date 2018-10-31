@@ -24,6 +24,10 @@
 
 ## Band Saw
 
+### Upgrades & Mods
+
+[https://www.carterproducts.com/band-saw-products](https://www.carterproducts.com/band-saw-products) - 14" bandsaw upgrades: guides, tensioning lever, fence
+
 ## Cutting Tools (Bits, Blades, etc.)
 
 [Byrd Tool](http://byrdtool.com) - Shelix spiral cutter heads and inserts for planers
