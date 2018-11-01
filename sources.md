@@ -1,5 +1,7 @@
 ## 20mm Dogs and Accessories
 
+[Dominofix](http://dominofix.com)
+
 [Parf Dogs]() - standard and tall stainless dogs, center hole threaded M8,
 
 [Precision Dogs](https://precisiondogs.us) - short dog (clears an 8 mm workpiece), standard dog (clears 12 mm workpiece) rail dogs, two-piece clamp mounting dogs for Bessy and Kreg clamps - short dogs are threaded center 8mm, standard dogs are drilled to clear an M8 bolt. Clamp mounting dogs mount on a short dog with workpiece referenced to the dog.
@@ -59,5 +61,9 @@
 [Festool Parts]()
 
 ## Routers & Rounter Table
+
+### 32mm System Jigs
+
+[DominoFix](http://dominofix.com)
 
 
