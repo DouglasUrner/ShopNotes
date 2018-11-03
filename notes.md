@@ -88,6 +88,8 @@ Festool LR-32
 
 [4 Simple, Shop-Made Router Jigs](https://www.popularwoodworking.com/woodworking-blogs/editors-blog/4-simple-shop-made-router-jigs/)
 
+[Router Planing Sled](http://festoolownersgroup.com/festool-jigs-tool-enhancements/router-planing-sled/msg422028/#msg422028)
+
 ### 32 mm Cabinet Construction
 
 [Festool LR-32 videos - The Poplar Shop (Mr. BigErock)](https://www.youtube.com/playlist?list=PLWQ1DAMaquDjTtCUIELBfVrNtocbQPXsy)
