@@ -12,7 +12,7 @@ Dan Pattison's [The Multi-Purpose Table](http://multipurposetable.blogspot.com/2
 
 Michael Gildersleave's [Transportable System](http://festoolownersgroup.com/festool-jigs-tool-enhancements/transportable-system/)
 
-[TrackTubes](https://tracktubes.com) - extrusions to creating an expandable bench top.
+[TrackTubes](https://tracktubes.com) - extrusions to creating an expandable bench top. Thread on [FOG](http://festoolownersgroup.com/festool-sales-dealer-area/sliding-table-system/msg561545/?topicseen#msg561545)
 
 #### MFT "Theory & Practice"
 
