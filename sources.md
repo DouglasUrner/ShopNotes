@@ -28,7 +28,7 @@
 
 ### Upgrades & Mods
 
-[https://www.carterproducts.com/band-saw-products](https://www.carterproducts.com/band-saw-products) - 14" bandsaw upgrades: guides, tensioning lever, fence
+[https://www.carterproducts.com/band-saw-products](https://www.carterproducts.com/band-saw-products) - 14" bandsaw upgrades: guides, tensioning lever, fence, zero-clearence inserts.
 
 ## Cutting Tools (Bits, Blades, etc.)
 
