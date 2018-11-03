@@ -48,6 +48,10 @@
 
 [Big Gator Tools](https://www.shop.biggatortools.com) - drill guides (bushing blocks) for portable drills.
 
+### Pocket Hole Jigs
+
+[UJK](https://www.axminster.co.uk/ujk-technology-pocket-hole-jig-503726?utm_source=emarsys&utm_medium=web-recommendations&utm_campaign=emarsys-recommendations-product-page-related)
+
 ## Dust Collection
 
 [Clear Vue Cyclones](http://www.clearvuecyclones.com/)
