@@ -50,7 +50,7 @@
 
 ### Pocket Hole Jigs
 
-[UJK](https://www.axminster.co.uk/ujk-technology-pocket-hole-jig-503726?utm_source=emarsys&utm_medium=web-recommendations&utm_campaign=emarsys-recommendations-product-page-related)
+[UJK](https://knowledge.axminster.co.uk/pocket-hole-jigs/)
 
 ## Dust Collection
 
