@@ -56,6 +56,8 @@
 
 [Clear Vue Cyclones](http://www.clearvuecyclones.com/)
 
+[Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
+
 [PowerTec Dust Management Products](http://powertecproducts.com/dust-management/)
 
 ## Miter Saw
