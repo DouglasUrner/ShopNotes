@@ -18,7 +18,7 @@
 
 [CMT}()
 
-[Holbren Tools](https://www.holbren.com/Titan_Knife_PKH-12800-C) - HSS and carbide, $50 HSS, $160 cabride (2018) 
+[Holbren Tools](https://www.holbren.com/Titan_Knife_PKH-12800-C) - HSS and carbide, $50 HSS, $160 cabride (2018) Good prices on Byrd Shelix heads.
 
 [Infinity Tools](https://www.infinitytools.com) - HSS and carbide, carbide is about 3x the cost of HSS, claim 10x life and much better performance in cherry and teak.
 
