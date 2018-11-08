@@ -44,6 +44,6 @@
 
 [Rockler DustRIGHT 5 micron dust collection bag](https://www.rockler.com/5-micron-replacement-bag-for-rockler-wall-mount-dust-collector) - PowerTec also sells one.
 
-[]() - magnetic dust collector hose ends.
+[Magport](https://magport.net/) - magnetic dust collector hose ends.
 
 ### Snipe Management
