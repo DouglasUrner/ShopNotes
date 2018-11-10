@@ -30,6 +30,10 @@
 
 [https://www.carterproducts.com/band-saw-products](https://www.carterproducts.com/band-saw-products) - 14" bandsaw upgrades: guides, tensioning lever, fence, zero-clearence inserts.
 
+## Clamps
+
+[]()
+
 ## Cutting Tools (Bits, Blades, etc.)
 
 [Byrd Tool](http://byrdtool.com) - Shelix spiral cutter heads and inserts for planers
@@ -74,7 +78,7 @@
 
 ### Quick Change Chucks
 
-[MuscleChuck](
+[MuscleChuck](https://musclechuck.com)
 
 ### 32mm System Jigs
 
