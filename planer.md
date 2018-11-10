@@ -12,7 +12,7 @@
 
 ### Accessories & Mods
 
-[Byrd Tool](byrdtool.com) - spiral cutter head 
+[Byrd Tool](http://byrdtool.com) - spiral cutter head 
 
 [Wixey WR510 Digital Planer Readout](http://www.wixey.com/planer/) - current (Type 2, 2018) version uses AAA batteries, the older Type 1 version used a CR2032 coin cell.
 
