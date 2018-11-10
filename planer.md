@@ -32,6 +32,8 @@
 
 [Flip Top Tool Cart](https://www.youtube.com/watch?v=g51OuJjcj84)
 
+[Mobile Flip Top Tool Stand](https://www.youtube.com/watch?v=twmJ5yAY_pU) - the Evening Woodworker, has some interesting ideas for locking the top with sliding blocks on the corners. Appears to use 1/2" rod for the pivot. Plans are [available for purchase](https://www.eveningwoodworker.com/flip-top-tool-stand).
+
 [YAFTPS- Yet Another Flip Top Planer Stand](http://lumberjocks.com/projects/49223)
 
 [Flip-top Planer Cart with infeed/outfeed tables](https://3dwarehouse.sketchup.com/model/a6d169663cb9333b53495af8763948ad/Flip-top-Planer-Cart-with-infeedoutfeed-tables) - SketchUp model, with custom extension tables.
