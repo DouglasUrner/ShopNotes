@@ -36,7 +36,7 @@
 
 [Flip Top Tool Stand || Dewalt Planer / Ridgid Sander](https://www.youtube.com/watch?v=YiDvT6_mcNI) - Good details on the construction of "ShopNotes style" table locks.
 
-[Shop Work: How to make Fisher's Flip Cart]() - this one doesn't "free spin" it flips between stops on the sides of the table and is secured in place with draw latches.
+[Shop Work: How to make Fisher's Flip Cart]() - this one doesn't "free spin" it flips between stops on the sides of the table and is secured in place with draw latches. Runs power cord through center of pivot axle.
 
 [YAFTPS- Yet Another Flip Top Planer Stand](http://lumberjocks.com/projects/49223)
 
