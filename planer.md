@@ -58,4 +58,9 @@
 
 [Magport](https://magport.net/) - magnetic dust collector hose ends.
 
-### Snipe Management
+### Noise Management
+
+Suggestions for reducing noise:
+
+* Byrd Shelix head
+* Removing exhaust blower fan blades on the dust blower side (the other side cools the motor) or removing the fan alltogether.
