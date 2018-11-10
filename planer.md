@@ -30,9 +30,11 @@
 
 [Flip Top Stand - DW735 planer](https://www.sawdustzone.org/forum/discussions/shop-setup-layout-and-design/40903-flip-top-stand-dw735-planer) - single-sided flip-top stand. [Plans (pdf)](http://www.alr6x6.com/pelligrini/BT3/Flip_top/Flip_top_plans.pdf) [Plans (Autocad, dwg2007)](http://www.alr6x6.com/pelligrini/BT3/Flip_top/Flip_top_stand_DW735.dwg). As designed the clearance for rotation is tight, the planer must be lowered to a 50mm cut to have clearance to rotate.
 
-[Flip Top Tool Cart](https://www.youtube.com/watch?v=g51OuJjcj84)
+[Flip Top Tool Cart](https://www.youtube.com/watch?v=g51OuJjcj84) - pivot is 3/4 rod in flanged bronze bushings.
 
 [Mobile Flip Top Tool Stand](https://www.youtube.com/watch?v=twmJ5yAY_pU) - the Evening Woodworker, has some interesting ideas for locking the top with sliding blocks on the corners. Appears to use 1/2" rod for the pivot. Plans are [available for purchase](https://www.eveningwoodworker.com/flip-top-tool-stand).
+
+[Flip Top Tool Stand || Dewalt Planer / Ridgid Sander](https://www.youtube.com/watch?v=YiDvT6_mcNI) - Good details on the construction of "ShopNotes style" table locks.
 
 [YAFTPS- Yet Another Flip Top Planer Stand](http://lumberjocks.com/projects/49223)
 
