@@ -46,7 +46,7 @@
 
 #### Fixed Top
 
-["Ultimate" Planer Cart](https://www.youtube.com/watch?v=oe5GW3Bq6Uc) - roller support on full-extension drawer slides.
+["Ultimate" Planer Cart](https://www.youtube.com/watch?v=oe5GW3Bq6Uc) - roller support on full-extension drawer slides. From the October 2011 issue of Woodworker's Journal Magazine
 
 ### Dust Collection
 
