@@ -32,7 +32,11 @@
 
 ## Clamps
 
-[]()
+[Bessey K-Body Clamps](https://www.besseytools.com/en/) - Home Depot often has very good prices on 24" and 50" models, Acme Tool has decent prices across the line.
+
+[Bessey Track and Table Clamps](https://www.besseytools.com/en/) - Festool style rachet clamp. Woodpeckers and Acme Tool have good prices on them.
+
+[Piher T-Track/Workbench Clamps](http://www.piher.com/en/37-t-track-holes-workbench-clamps) - have a Festool style rachet clamp and a clamp that is a cross between the Festool clamps and the Irwin style small bar clamps.
 
 ## Cutting Tools (Bits, Blades, etc.)
 
