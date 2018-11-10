@@ -44,6 +44,10 @@
 
 [Dewalt DW735 thickness planer SketchUp model](https://3dwarehouse.sketchup.com/model/eb3f81bae651883953495af8763948ad/Dewalt-DW735-thickness-planer) - without extension tables. A similar design [Flip Top for Dewalt DW735?](https://sawmillcreek.org/showthread.php?100385-Flip-Top-for-Dewalt-DW735) is suggested - actually designed for a Delta planer.
 
+#### Fixed Top
+
+["Ultimate" Planer Cart](https://www.youtube.com/watch?v=oe5GW3Bq6Uc) - roller support on full-extension drawer slides.
+
 ### Dust Collection
 
 [Just one more shop posting... Dewalt DW735 (from Kelly @ Lumberjocks)](http://lumberjocks.com/projects/100027)
