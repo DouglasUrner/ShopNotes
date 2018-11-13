@@ -95,3 +95,7 @@ Festool LR-32
 [Festool LR-32 videos - The Poplar Shop (Mr. BigErock)](https://www.youtube.com/playlist?list=PLWQ1DAMaquDjTtCUIELBfVrNtocbQPXsy)
 
 ### Dado
+
+## Dust Collection Systems & Design
+
+[Bill Pentz - Cyclone and Dust Collection Research](http://billpentz.com/woodworking/cyclone/)
