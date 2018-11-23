@@ -38,6 +38,11 @@
 
 [Damstom Panel Clamps](https://damstom.com) - 24" and 38" panel clamps.
 
+[De-Sta-Co Toggle Clamps](https://www.destaco.com)
+
+* [Horizontal Clamp Catalog](https://media.destaco.com/assetbank-destaco/assetfile/2742.pdf)
+* [Vertical Clamp Catalog](https://media.destaco.com/assetbank-destaco/assetfile/2714.pdf)
+
 [Piher T-Track/Workbench Clamps](http://www.piher.com/en/37-t-track-holes-workbench-clamps) - have a Festool style rachet clamp and a clamp that is a cross between the Festool clamps and the Irwin style small bar clamps.
 
 ## Cutting Tools (Bits, Blades, etc.)
