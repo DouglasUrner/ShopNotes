@@ -42,6 +42,8 @@
 
 ## Cutting Tools (Bits, Blades, etc.)
 
+[Amana Tool](https://www.amanatool.com/products/router-bits.html)
+
 [Byrd Tool](http://byrdtool.com) - Shelix spiral cutter heads and inserts for planers
 
 [Carbide Processors](http://www.carbideprocessors.com) - carbide tipped cutting tools
@@ -80,7 +82,7 @@
 
 [Festool Parts]()
 
-## Routers & Rounter Table
+## Routers & Router Table
 
 ### Quick Change Chucks
 
