@@ -26,6 +26,10 @@
 
 ## Band Saw
 
+[Jet]()
+
+[Iturra Design]() - Jacksonville, Florida - 904-642-2802
+
 ### Upgrades & Mods
 
 [https://www.carterproducts.com/band-saw-products](https://www.carterproducts.com/band-saw-products) - 14" bandsaw upgrades: guides, tensioning lever, fence, zero-clearence inserts.
