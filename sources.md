@@ -93,6 +93,10 @@
 
 ## Routers & Router Table
 
+### Porter-Cable Hacks, Mods, and Accessories
+
+Locking handles for 7518 and old-style 690 base (1001) - **7518:** Kipp KHB-64 (5/16-18 x 39.9 mm)
+
 ### Quick Change Chucks
 
 [MuscleChuck](https://musclechuck.com)
