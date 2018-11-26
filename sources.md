@@ -93,13 +93,15 @@
 
 ## Routers & Router Table
 
-### Porter-Cable Hacks, Mods, and Accessories
+### Porter-Cable Hacks, Mods, Notes, and Accessories
 
-Locking handles for 7518 and old-style 690 base (1001) - **7518:** Kipp KHB-64 (5/16-18 x 39.9 mm)
+Sub-base screws: **7518:** 5/16-18 x 1/2" (stock), x 5/8 (3/8 sub-base). **690:** 10-24 x 1/2" (stock).
+
+Locking handles for 7518 and old-style 690 base (1001) - **7518:** [Kipp](https://www.kippusa.com/us/en/Products/Adjustable-Handles.html) KHB-64 (5/16-18 x 39.9 mm)
 
 ### Quick Change Chucks
 
-[MuscleChuck](https://musclechuck.com)
+[MuscleChuck](https://musclechuck.com) - **Porter-Cable:** Type 1. **Festool 1400 and 2200:** Type 2. Standard chucks are 0.625" longer than stock, EX (extended) chucks are 1.025" longer.
 
 ### 32mm System Jigs
 
