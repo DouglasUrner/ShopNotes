@@ -24,3 +24,9 @@ Using a sharp blade:
 1. Make a test cut:
    - If the cut drifts and pulls the work away from the fence (to the right):
    - If the cut does not drift away, check the position of the back of the blade in the kerf - it should be an even distance from both sides. If it is tighter on the left, towards the fence, adjust the table
+
+## Dust Collection
+
+1. Piece of PVC or ABS pipe right below the lower blade guides attached to a vacuum or dust collector.
+
+1. Second dust collection port in the lower housing as the blade turns up at about 7:30.
