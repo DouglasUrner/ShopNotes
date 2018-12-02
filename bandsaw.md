@@ -22,8 +22,9 @@ Using a sharp blade:
 1. Adjust the rip fence so that it is parallel to the miter slot on the table.
 1. Loosen the trunion mounting bolts so thot the table position can be set os that the miter slot is parallels to the blade (and the axis of the upper wheel). Then, tighten the easily accessible bolts to hold the table in place as you make your test cuts.
 1. Make a test cut:
-   - If the cut drifts and pulls the work away from the fence (to the right):
-   - If the cut does not drift away, check the position of the back of the blade in the kerf - it should be an even distance from both sides. If it is tighter on the left, towards the fence, adjust the table
+   - If the cut drifts and pulls the work away from the fence (to the right): adjust the table clockwise (moving the back of the table towards the right).
+   - If the cut does not drift away, check the position of the back of the blade in the kerf - it should be an even distance from both sides. If it is tighter on the left, towards the fence, adjust the table counter-clockwise (move the back of the table to the left, towards the frame of the saw).
+1. Repeat until the saw blade runs true down the center of the kerf and the edge of the workpiece runs tight along the fence.
    
 Note: If the blade is **not** tracking on the center of the wheel, then it will drift to the right if it is too far forward, and to the left if it is too far to the back.
 
