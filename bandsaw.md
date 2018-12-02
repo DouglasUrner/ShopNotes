@@ -24,6 +24,8 @@ Using a sharp blade:
 1. Make a test cut:
    - If the cut drifts and pulls the work away from the fence (to the right):
    - If the cut does not drift away, check the position of the back of the blade in the kerf - it should be an even distance from both sides. If it is tighter on the left, towards the fence, adjust the table
+   
+Note: If the blade is **not** tracking on the center of the wheel, then it will drift to the right if it is too far forward, and to the left if it is too far to the back.
 
 ## Dust Collection
 
