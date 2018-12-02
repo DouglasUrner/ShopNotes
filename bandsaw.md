@@ -35,3 +35,17 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 1. Piece of PVC or ABS pipe right below the lower blade guides attached to a vacuum or dust collector.
 
 1. Second dust collection port in the lower housing as the blade turns up at about 7:30.
+
+## Accessories
+
+### Fences
+
+#### Plans
+
+#### Aftermarket
+
+* Carter Magnetic
+
+* Grizzley
+
+* Kreg
