@@ -25,6 +25,8 @@ Using a sharp blade:
    - If the cut drifts and pulls the work away from the fence (to the right): adjust the table clockwise (moving the back of the table towards the right).
    - If the cut does not drift away, check the position of the back of the blade in the kerf - it should be an even distance from both sides. If it is tighter on the left, towards the fence, adjust the table counter-clockwise (move the back of the table to the left, towards the frame of the saw).
 1. Repeat until the saw blade runs true down the center of the kerf and the edge of the workpiece runs tight along the fence.
+
+Another way to read the drift of the blade is by burning on the work. The blade is tight on the side that is burned.
    
 Note: If the blade is **not** tracking on the center of the wheel, then it will drift to the right if it is too far forward, and to the left if it is too far to the back.
 
