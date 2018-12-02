@@ -38,6 +38,8 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 ## Accessories
 
+### Blades
+
 ### Fences
 
 #### Plans
@@ -49,3 +51,5 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 * Grizzley
 
 * Kreg
+
+### Guides
