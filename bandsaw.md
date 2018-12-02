@@ -44,6 +44,8 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 #### Plans
 
+[Popular Woodworking: Bandsaw Fence](https://www.popularwoodworking.com/american-woodworker-blog/bandsaw-fence/)
+
 #### Aftermarket
 
 * Carter Magnetic
