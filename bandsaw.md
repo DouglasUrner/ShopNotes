@@ -6,7 +6,7 @@ Blade length: 105.5"
 
 ## Tuning
 
-### Squaring Table To The Blade (setting the stop and shimmping the trunions)
+### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
 From Michael Fortune ([FWW: Squaring Your Bandsaw Table](https://www.finewoodworking.com/2011/05/24/squaring-your-bandsaw-table)):
 
