@@ -75,6 +75,8 @@
 
 ## Dust Collection
 
+System components, tool specicfic items are listed with the tools.
+
 [Clear Vue Cyclones](http://www.clearvuecyclones.com/)
 
 [Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
@@ -106,5 +108,9 @@ Locking handles for 7518 and old-style 690 base (1001) - **7518:** [Kipp](https:
 ### 32mm System Jigs
 
 [DominoFix](http://dominofix.com)
+
+### Third-party Dust Collection
+
+[Betterley Stacc-Vac](https://www.betterleytools.com)
 
 
