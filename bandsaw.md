@@ -2,9 +2,15 @@
 
 ## Jet 14" with Riser Block
 
-Blade length: 105.5"
+Blade length: 105"
 
 ## Tuning
+
+Overviews:
+
+* [Five Tips for Better Bandsawing - Michael Fortune, FWW 2004](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup1.pdf)
+* [Bandsaw Tune-up - John White, FWW 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
+* [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf)
 
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
