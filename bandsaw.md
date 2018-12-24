@@ -3,7 +3,10 @@
 ## Jet 14" with Riser Block Kit (JWBS-14CS) - Circa 1998
 
 Blade length: 105"
-Motor: 
+
+Motor: (can be wired for 115 or 230 volts)
+
+[Factory Manual](https://content.jettools.com/assets/manuals/708115K_man_EN.pdf)
 
 ## Tuning
 
