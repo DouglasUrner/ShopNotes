@@ -17,6 +17,7 @@ Overviews:
 * [Five Tips for Better Bandsawing - Michael Fortune, FWW 2004](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup1.pdf)
 * [Bandsaw Tune-up - John White, FWW 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
 * [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf) - also consider shimming the riser block. Target should probably be it the range of < 0.5 mm out of parallel with the blade over 300 mm.
+* [How to Tune Your Bandsaw - Mark Duginske, PWW 2015](https://www.popularwoodworking.com/american-woodworker-blog/tune-bandsaw/) - shims riser block to adjust guidepost alignment.
 
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
