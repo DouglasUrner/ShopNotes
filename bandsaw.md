@@ -1,8 +1,9 @@
 # Bandsaws
 
-## Jet 14" with Riser Block
+## Jet 14" with Riser Block Kit (JWBS-14CS) - Circa 1998
 
 Blade length: 105"
+Motor: 
 
 ## Tuning
 
@@ -10,7 +11,7 @@ Overviews:
 
 * [Five Tips for Better Bandsawing - Michael Fortune, FWW 2004](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup1.pdf)
 * [Bandsaw Tune-up - John White, FWW 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
-* [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf)
+* [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf) - also consider shimming the riser block. Target should probably be it the range of < 0.5 mm out of parallel with the blade over 300 mm.
 
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
