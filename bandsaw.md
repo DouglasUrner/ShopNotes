@@ -1,6 +1,6 @@
 # Bandsaws
 
-## Jet 14" with Riser Block Kit (JWBS-14CS + 708717A riser kit) - Circa 1998
+## Jet 14" with Riser Block Kit (JWBS-14CS + 708717A riser kit) - Circa 1997
 
 Blade length: 105"
 
