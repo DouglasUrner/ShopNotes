@@ -49,6 +49,8 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 #### General Purpose
 
+Starrett.
+
 #### Resawing
 
 1/2" or 3/4" 2/3 (or 3/4) variable tooth - with large gullets for chip room.
