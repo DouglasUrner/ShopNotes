@@ -1,12 +1,14 @@
 # Bandsaws
 
-## Jet 14" with Riser Block Kit (JWBS-14CS) - Circa 1998
+## Jet 14" with Riser Block Kit (JWBS-14CS + 708717A riser kit) - Circa 1998
 
 Blade length: 105"
 
 Motor: (can be wired for 115 or 230 volts)
 
 [Factory Manual](https://content.jettools.com/assets/manuals/708115K_man_EN.pdf)
+
+[708717A (3/4") Riser Kit Instructions](http://content.jettools.com/assets/manuals/708717A_man_EN.pdf)
 
 ## Tuning
 
