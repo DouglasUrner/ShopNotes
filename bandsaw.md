@@ -10,7 +10,18 @@ Motor: (can be wired for 115 or 230 volts)
 
 [708717A (3/4") Riser Kit Instructions](http://content.jettools.com/assets/manuals/708717A_man_EN.pdf)
 
-## Tuning
+## Bandsaw Set Up
+
+1. If using a riser block - clean / remove paint from the faces of the riser block and the frame halves.
+1. Assemble the frame.
+1. Fit a "typical" blade - 1/2" resaw - track and tension. Remove the upper blade guides and loosen the lower blade guides so that the blade is free.
+1. Check the side-to-side parallelism between the guidepost and the blade.
+1. Shim the riser block to bring the blade parallel to the guidepost.
+1. Set the table perpendicular to the blade/guidepost and adjust the stop.
+1. Check the parallelism between the back of the blade and the guidepost. Adjust by shimming the wheels - while attempting to make / keep the wheels coplanar. Favor parallelism.
+1. Shim the table trunions to set the table square to the back of the blade.
+
+## Tuning Articles
 
 Overviews:
 
