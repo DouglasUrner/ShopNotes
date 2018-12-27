@@ -85,6 +85,8 @@ Starrett.
 
 [Popular Woodworking: Bandsaw Fence](https://www.popularwoodworking.com/american-woodworker-blog/bandsaw-fence/)
 
+[Make Your Own Bandsaw Fence - FWW 210](https://www.finewoodworking.com/membership/pdf/9533/011210054.pdf)
+
 #### Aftermarket
 
 * Carter Magnetic
