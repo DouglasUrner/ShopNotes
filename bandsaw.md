@@ -71,6 +71,10 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 [Five Essential Bandsaw Jigs - Michael Fortune, FWW #180](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf) – Jigs for tapers, circles, wedges, and curves.
 
+### Curves
+
+[Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves)
+
 ### Dovetail
 
 [How to: Precise Bandsawn Dovetails - Michael Fortune, FWW #270](https://www.finewoodworking.com/2018/07/26/precise-bandsawn-dovetails)
