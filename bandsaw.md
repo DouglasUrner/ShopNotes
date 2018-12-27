@@ -67,6 +67,14 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 1. Second dust collection port in the lower housing as the blade turns up at about 7:30.
 
+## Jigs
+
+### Dovetail
+
+[How to: Precise Bandsawn Dovetails - Michael Fortune, FWW #270](https://www.finewoodworking.com/2018/07/26/precise-bandsawn-dovetails)
+
+[Bandsaw jig cuts perfect dovetails - Shop Tips, FWW #266](https://www.finewoodworking.com/2017/12/01/bandsaw-jig-cuts-perfect-dovetails)
+
 ## Accessories
 
 ### Blades
