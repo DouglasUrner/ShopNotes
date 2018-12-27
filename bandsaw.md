@@ -18,6 +18,8 @@ Motor: (can be wired for 115 or 230 volts)
 * 3/8" 6 TPI hook tooth – general purpose
 * 1/2" 3 TPI hook tooth – ripping & resawing
 
+[Tool Test: Bandsaw Blades, Tom Begnal & John White, FWW #169, 2004](https://www.finewoodworking.com/2004/04/01/tool-test-bandsaw-blades) - [PDF of full article](https://www.finewoodworking.com/membership/pdf/41324/011169076.pdf)
+
 ### Blade Geometry
 
 #### Tooth Shape
