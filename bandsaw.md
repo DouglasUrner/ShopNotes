@@ -57,8 +57,8 @@ The goal is to have a saw that runs true and that allows moving the guidepost to
 1. Assemble the frame.
 1. Fit a "typical" blade - 1/2" resaw - track and tension. Remove the upper blade guides and loosen the lower blade guides so that the blade is free.
 1. Check the side-to-side parallelism between the guidepost and the blade.
-1. Shim the riser block to bring the blade parallel to the guidepost.
-1. Set the table perpendicular to the blade/guidepost and adjust the stop.
+1. Shim the frame/riser block to bring the blade parallel to the guidepost.
+1. Set the table perpendicular to the blade/guidepost (the blade wins if there is a difference) and adjust the stop.
 1. Check the parallelism between the back of the blade and the guidepost. Adjust by shimming the wheels - while attempting to make / keep the wheels coplanar. Favor parallelism.
 1. Shim the table trunions to set the table square to the back of the blade.
 
@@ -69,7 +69,11 @@ Overviews:
 * [Five Tips for Better Bandsawing - Michael Fortune, FWW 2004](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup1.pdf)
 * [Bandsaw Tune-up - John White, FWW #157, 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
 * [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf) - also consider shimming the riser block. Target should probably be it the range of < 0.5 mm out of parallel with the blade over 300 mm.
-* [How to Tune Your Bandsaw - Mark Duginske, PWW 2015](https://www.popularwoodworking.com/american-woodworker-blog/tune-bandsaw/) - shims riser block to adjust guidepost alignment.
+* [How to Tune Your Bandsaw - Mark Duginske, PWW 2015](https://www.popularwoodworking.com/american-woodworker-blog/tune-bandsaw/) - shims riser block to adjust guidepost alignment. His order of operations is a bit different than mine:
+  1. Make the wheels coplanar.
+  1. Adjust the table to square it (side-to-side) to the blade.
+  1. Square the table to the back of the blade with shims at the trunions.
+  1. Shim the frame of the saw to make the blade parallel (side-to-side) with the guidepost.
 * [The Basics of the Bandsaw - Tage Frid, FWW ](https://www.finewoodworking.com/membership/pdf/37169/011027082.pdf)
 
 ### Setting Blade Tension
