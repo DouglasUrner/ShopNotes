@@ -67,13 +67,15 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 1. Second dust collection port in the lower housing as the blade turns up at about 7:30.
 
-## Jigs
+## Jigs & Technique
 
 [Five Essential Bandsaw Jigs - Michael Fortune, FWW #180](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf) – Jigs for tapers, circles, wedges, and curves.
 
 ### Curves
 
 [Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
+
+[Flawless Curves on the Bandsaw - FWW #199](https://www.finewoodworking.com/2008/06/04/flawless-curves-on-the-bandsaw) - [PDF](https://www.finewoodworking.com/membership/pdf/9404/011199034.pdf)
 
 ### Dovetail
 
