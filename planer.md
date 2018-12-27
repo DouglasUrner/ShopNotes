@@ -16,6 +16,10 @@
 
 [Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material).
 
+#### Tapers
+
+[Taper Jig Combines Bandsaw and Planer](https://www.finewoodworking.com/2011/07/07/taper-jig-combines-bandsaw-and-planer)
+
 ### Accessories & Mods
 
 [Byrd Tool](http://byrdtool.com) - spiral cutter head 
