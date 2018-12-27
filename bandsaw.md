@@ -12,7 +12,11 @@ Motor: (can be wired for 115 or 230 volts)
 
 ## Blades
 
+[Essential Bandsaw Blades – Roland Johnson, FWW #252, 2016](https://www.finewoodworking.com/2015/12/02/essential-bandsaw-blades) [PDF of full article](https://www.finewoodworking.com/membership/pdf/20025/011252052.pdf) – recommends:
 
+* 1/4" 10 TPI hook tooth – scroll work and thin stock
+* 3/8" 6 TPI regular tooth – general purpose
+* 1/2" 3 TPI hook tooth – ripping & resawing
 
 ### Blade Geometry
 
