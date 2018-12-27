@@ -14,8 +14,8 @@ Motor: (can be wired for 115 or 230 volts)
 
 [Essential Bandsaw Blades – Roland Johnson, FWW #252, 2016](https://www.finewoodworking.com/2015/12/02/essential-bandsaw-blades) – [PDF of full article](https://www.finewoodworking.com/membership/pdf/20025/011252052.pdf) – recommends:
 
-* 1/4" 10 TPI hook tooth – scroll work and thin stock
-* 3/8" 6 TPI regular tooth – general purpose
+* 1/4" 10 TPI regular tooth – scroll work and thin stock
+* 3/8" 6 TPI hook tooth – general purpose
 * 1/2" 3 TPI hook tooth – ripping & resawing
 
 ### Blade Geometry
@@ -27,10 +27,13 @@ Motor: (can be wired for 115 or 230 volts)
 ### Thin Materials / Joinery
 
 * Starrett Bi-metal Jointmaster 105" x 1/2" x 10/14 x 0.020" (Iturra SB12T1014)
+* Starrett Flexback 105" x 1/4" x 14 x 0.025" (Iturra SF14T14)
 * Starrett Flexback 105" x 3/8" x 14 x 0.025" (Iturra SF38T14)
 * Starrett Flexback 105" x 1/2" x 14 x 0.025" (Iturra SF12T14)
 
 ### General Purpose
+
+1/4" or 3/8" 6 TPI regular tooth
 
 * 3/8" 6 TPI
 
