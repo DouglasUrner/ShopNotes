@@ -12,6 +12,8 @@ Motor: (can be wired for 115 or 230 volts)
 
 ## Blades
 
+
+
 ### Blade Geometry
 
 #### Tooth Shape
