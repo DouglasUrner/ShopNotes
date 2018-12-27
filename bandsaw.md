@@ -89,6 +89,8 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 #### General Purpose
 
+3/8" 6 TPI
+
 Starrett.
 
 #### Resawing
