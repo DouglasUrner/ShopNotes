@@ -31,6 +31,12 @@ Overviews:
 * [How to Tune Your Bandsaw - Mark Duginske, PWW 2015](https://www.popularwoodworking.com/american-woodworker-blog/tune-bandsaw/) - shims riser block to adjust guidepost alignment.
 * [The Basics of the Bandsaw - Tage Frid, FWW ](https://www.finewoodworking.com/membership/pdf/37169/011027082.pdf)
 
+### Setting Blade Tension
+
+[Tension Bandsaws Without a Gauge - FWW #230](https://www.finewoodworking.com/2012/10/25/tension-bandsaws-without-a-gauge) - With the upper blade guide all the way up tension on a 1/2" or smaller blade can be judged by pressing the blade sideways – – a deflection of about 1/4" (without turning your fingertip white) is about right.
+
+A torque wrench on a Carter Ratchet-Rod seems like it would provide a way to calculate blade tension (or it would provide a way to consistantly set tension.
+
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
 From Michael Fortune ([FWW: Squaring Your Bandsaw Table](https://www.finewoodworking.com/2011/05/24/squaring-your-bandsaw-table)):
