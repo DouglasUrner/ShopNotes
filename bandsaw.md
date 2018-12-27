@@ -105,4 +105,4 @@ Starrett.
 
 ### Guides
 
-[Choosing Bandsaw Guides - FWW #](https://www.finewoodworking.com/membership/pdf/23252/011148036.pdf)
+[Choosing Bandsaw Guides - FWW #148](https://www.finewoodworking.com/membership/pdf/23252/011148036.pdf)
