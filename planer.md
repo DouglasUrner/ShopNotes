@@ -10,6 +10,12 @@
 
 [Fixing a DW735 Planer](https://amymakesstuff.com/2016/03/27/fixing-a-dewalt-dw375-planer/)
 
+### Jigs & Techniques
+
+#### "Jointing" Warped / Twisted Stock
+
+[Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material).
+
 ### Accessories & Mods
 
 [Byrd Tool](http://byrdtool.com) - spiral cutter head 
