@@ -10,6 +10,36 @@ Motor: (can be wired for 115 or 230 volts)
 
 [708717A (3/4") Riser Kit Instructions](http://content.jettools.com/assets/manuals/708717A_man_EN.pdf)
 
+## Blades
+
+### Blade Geometry
+
+#### Tooth Shape
+
+#### Set
+
+### Thin Materials / Joinery
+
+* Starrett Bi-metal Jointmaster 105" x 1/2" x 10/14 x 0.020" (Iturra SB12T1014)
+* Starrett Flexback 105" x 3/8" x 14 x 0.025" (Iturra SF38T14)
+* Starrett Flexback 105" x 1/2" x 14 x 0.025" (Iturra SF12T14)
+
+### General Purpose
+
+* 3/8" 6 TPI
+
+Starrett.
+
+### Resawing
+
+1/2" or 3/4" 2/3 (Timberwolf) or 3/4 (Woodslicer/Bladerunner) variable tooth - with large gullets for chip room.
+
+* Bladerunner (Iturra Design branded Woodslicer)
+
+* Timberwolf
+
+* Woodslicer (Highland Hardware)
+
 ## Bandsaw Set Up
 
 1. If using a riser block - clean / remove paint from the faces of the riser block and the frame halves.
@@ -84,24 +114,6 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 [Bandsaw jig cuts perfect dovetails - Shop Tips, FWW #266](https://www.finewoodworking.com/2017/12/01/bandsaw-jig-cuts-perfect-dovetails)
 
 ## Accessories
-
-### Blades
-
-#### General Purpose
-
-3/8" 6 TPI
-
-Starrett.
-
-#### Resawing
-
-1/2" or 3/4" 2/3 (or 3/4) variable tooth - with large gullets for chip room.
-
-* Bladerunner (Iturra Design branded Woodslicer)
-
-* Timberwolf
-
-* Woodslicer (Highland Hardware)
 
 ### Fences
 
