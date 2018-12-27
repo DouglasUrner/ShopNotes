@@ -51,6 +51,8 @@ Starrett.
 
 ## Bandsaw Set Up
 
+The goal is to have a saw that runs true and that allows moving the guidepost to accomodate stock thickness without the need for adjusting the guides – this means having the blade and guidepost parallel.
+
 1. If using a riser block - clean / remove paint from the faces of the riser block and the frame halves.
 1. Assemble the frame.
 1. Fit a "typical" blade - 1/2" resaw - track and tension. Remove the upper blade guides and loosen the lower blade guides so that the blade is free.
