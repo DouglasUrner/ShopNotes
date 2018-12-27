@@ -26,7 +26,7 @@ Motor: (can be wired for 115 or 230 volts)
 Overviews:
 
 * [Five Tips for Better Bandsawing - Michael Fortune, FWW 2004](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup1.pdf)
-* [Bandsaw Tune-up - John White, FWW 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
+* [Bandsaw Tune-up - John White, FWW #157, 2002](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup2.pdf)
 * [Fine-Tuning a Bandsaw - Robert Vaughan, FWW 1997](http://www.ccwwa.org/NEWSITE/plans/BandsawTuneup3.pdf) - also consider shimming the riser block. Target should probably be it the range of < 0.5 mm out of parallel with the blade over 300 mm.
 * [How to Tune Your Bandsaw - Mark Duginske, PWW 2015](https://www.popularwoodworking.com/american-woodworker-blog/tune-bandsaw/) - shims riser block to adjust guidepost alignment.
 * [The Basics of the Bandsaw - Tage Frid, FWW ](https://www.finewoodworking.com/membership/pdf/37169/011027082.pdf)
@@ -104,3 +104,5 @@ Starrett.
 * Woodhaven
 
 ### Guides
+
+[Choosing Bandsaw Guides - FWW #](https://www.finewoodworking.com/membership/pdf/23252/011148036.pdf)
