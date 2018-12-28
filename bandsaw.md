@@ -24,9 +24,10 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 
 ### Width vs. Cut Radius
 
-| Blade Width | 1/8 | 3/16 | 1/4 | 3/8  | 1/2 | 5/8 | 3/4 |
-| ---         | ---   | ---  | ---    | ---     | ---    | ---    | ---    |
-| Radius (in) | 3/16| 5/16 | 5/8 | 1 1/2| 2 1/2 |   | 6   |
+| Blade Width | 1/8  | 3/16 | 1/4 | 3/8   | 1/2   | 5/8 | 3/4 |
+| ---         | ---  | ---  | --- | ---   | ---   | --- | --- |
+| Radius (mm) | 5    | 8    | 16  | 38    | 64    |     | 150 |
+| Radius (in) | 3/16 | 5/16 | 5/8 | 1 1/2 | 2 1/2 |     | 6   |
 
 ### Blade Geometry
 
