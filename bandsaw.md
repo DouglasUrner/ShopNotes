@@ -45,11 +45,13 @@ Starrett.
 
 1/2" or 3/4" 2/3 (Timberwolf) or 3/4 (Woodslicer/Bladerunner) variable tooth - with large gullets for chip room.
 
-* Bladerunner (Iturra Design branded Woodslicer)
+* Woodslicer (Highland Hardware) - a 0.022" narrow kerf (1/32" / 0.8 mm) resaw blade with very good reviews. Many reports of the blade dulling quickly if you hit nails or knots. The narrow kerf conserves wood and helps to keep the blade running straight – but it also makes it unsuitable for green wood and less able to cut curves than a blade with a "standard" amount of set. Blades with similar specs:
+
+  * Bladerunner (Iturra Design branded Woodslicer) - available in 1/2" and 3/4" widths.
+  * [KERFMaster](http://www.spectrumsupply.com/kerfmaster-2.aspx) (Spectrum Supply) - specs seem similar, but no claim that they are the same blade. Available in a 5/8" width and a narrow blade made from 0.016" stock – as well as 1/2", 5/8", and 3/4" in 0.022" thickness.
+  * [Infinity Rip Bandsaw Blades](https://www.infinitytools.com/saw-blades-accessories/bandsaw-blades-machines-accessories/band-saw-blades/infinity-rip-bandsaw-blades) - available in 5/8" and 3/4" widths.
 
 * Timberwolf
-
-* Woodslicer (Highland Hardware)
 
 ## Bandsaw Set Up
 
