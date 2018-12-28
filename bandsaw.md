@@ -22,7 +22,7 @@ Motor: (can be wired for 115 or 230 volts)
 
 The limiting factor on blades for a 14" saw is the ablility of the saw frame to tension the blade and the blade's tolerance for flexing as it runs around the wheels. Most 3/4" blades are too thick to be properlly tensioned. The **Woodslicer** "family" of blades is an exception.
 
-### Width vs. Cut Radius
+### Blade Width vs. Curve Radius
 
 | Blade Width | 1/8  | 3/16 | 1/4 | 3/8   | 1/2   | 5/8 | 3/4 |
 | :---------: | ---: | ---: | ---:| ----: | ----: | ---:| ---:|
