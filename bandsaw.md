@@ -130,6 +130,10 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 [Bandsaw jig cuts perfect dovetails - Shop Tips, FWW #266](https://www.finewoodworking.com/2017/12/01/bandsaw-jig-cuts-perfect-dovetails)
 
+### Resawing
+
+[Slicing Wood](https://www.highlandwoodworking.com/library/Slicing%20Wood.pdf) - Highland Hardware "how to" for their Woodslicer blades.
+
 ## Accessories
 
 ### Fences
