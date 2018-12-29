@@ -33,6 +33,10 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 
 #### Tooth Shape
 
+* Regular
+* Hook
+* Skip
+
 #### Set
 
 ### Thin Materials / Joinery
