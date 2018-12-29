@@ -95,6 +95,10 @@ Overviews:
 
 [Tension Bandsaws Without a Gauge - FWW #230](https://www.finewoodworking.com/2012/10/25/tension-bandsaws-without-a-gauge) - With the upper blade guide all the way up tension on a 1/2" or smaller blade can be judged by pressing the blade sideways – – a deflection of about 1/4" (without turning your fingertip white) is about right.
 
+Highland Hardware [describes the process](https://www.highlandwoodworking.com/library/Slicing%20Wood.pdf) like this "Install the Wood Slicer on your saw, with lateral guides and thrust bearings opened up and backed off both above and below the table so they do not contact the blade. Crank on some tension, and then give the blade a sharp sideways poke about halfway between the upper and lower wheels. The blade will deflect a short distance and then seem to hit a wall; if you push a lot harder it will bend farther, but there's a fairly distinct point where it quits deflecting easily. Add tension until this sideways movement is just 1/4" to 5/16" (7 mm) on saws with 6" (150 mm) depth of cut, or about 3/8" (10 mm) on saws with 12" (300 mm) depth."
+
+They go on to suggest fine tuning the tension by "Before you bring the lateral guides and thrust bearings up close to the blade, close the wheel covers and turn the saw on. If vibration blurs the blade, try increasing or decreasing the tension very slightly until the blade runs smoothly in a straight, quiet line from wheel to wheel. Cuts will be smoother when you eliminate this source of fluttering in the kerf, and the saw will run quieter and more efficiently as well."
+
 A torque wrench on a Carter Ratchet-Rod seems like it would provide a way to calculate blade tension (or it would provide a way to consistantly set tension.
 
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
