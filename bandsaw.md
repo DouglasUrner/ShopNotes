@@ -66,7 +66,7 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 
 ## Bandsaw Set Up
 
-The goal is to have a saw that runs true and that allows moving the guidepost to accomodate stock thickness without the need for adjusting the guides – this means having the blade and guidepost parallel.
+The goal is to have a saw that cuts true, parallel to the miter slot, and that allows moving the guidepost to accomodate stock thickness without the need for adjusting the guides – this means having the blade and guidepost parallel.
 
 1. If using a riser block - clean / remove paint from the faces of the riser block and the frame halves.
 1. Assemble the frame.
