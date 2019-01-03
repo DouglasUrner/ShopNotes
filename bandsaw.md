@@ -145,7 +145,7 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 [How to: Precise Bandsawn Dovetails - Michael Fortune, FWW #270](https://www.finewoodworking.com/2018/07/26/precise-bandsawn-dovetails)
 
-[Bandsaw jig cuts perfect dovetails - Shop Tips, FWW #266](https://www.finewoodworking.com/2017/12/01/bandsaw-jig-cuts-perfect-dovetails)
+[Bandsaw jig cuts perfect dovetails - Shop Tips, FWW #266](https://www.finewoodworking.com/2017/12/01/bandsaw-jig-cuts-perfect-dovetails) SketchUp model of variation using [T-track to hold angled fence](https://www.flickr.com/photos/8294157@N08/29722996458/in/photostream/) by Dave_R_.
 
 ### Resawing
 
