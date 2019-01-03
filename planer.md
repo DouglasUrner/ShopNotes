@@ -16,6 +16,8 @@
 
 [Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material).
 
+[A smarter planer sled for flattening wide stock, FWW 2017](https://www.finewoodworking.com/2017/06/06/a-smarter-planer-sled-for-flattening-wide-stock)
+
 #### Tapers
 
 [Taper Jig Combines Bandsaw and Planer](https://www.finewoodworking.com/2011/07/07/taper-jig-combines-bandsaw-and-planer)
@@ -55,6 +57,8 @@
 [Flip-top cart fail](https://www.woodtalkonline.com/topic/21782-flip-top-cart-fail/) - issues with Shop Notes design, and details of their locking mechanism for the top.
 
 [Dewalt DW735 thickness planer SketchUp model](https://3dwarehouse.sketchup.com/model/eb3f81bae651883953495af8763948ad/Dewalt-DW735-thickness-planer) - without extension tables. A similar design [Flip Top for Dewalt DW735?](https://sawmillcreek.org/showthread.php?100385-Flip-Top-for-Dewalt-DW735) is suggested - actually designed for a Delta planer.
+
+#### Infeed/Outfeed Tables
 
 #### Fixed Top
 
