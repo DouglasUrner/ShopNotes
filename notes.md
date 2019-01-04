@@ -52,6 +52,8 @@ Festool LR-32
 
 [Modified Paulk MFT Workbench and Miter Saw Stand](http://festoolownersgroup.com/festool-jigs-tool-enhancements/modified-paulk-mft-workbench-and-miter-saw-stand/)
 
+[Downdraft Kapex Workstation](http://festoolownersgroup.com/member-projects/kapex-installation)
+
 ## Sawhorses
 
 [Tri-Horse](http://lumberjocks.com/projects/96307) - [video](https://www.youtube.com/watch?v=kpJcG8J1-bs), [Kickstarter videos](https://www.youtube.com/watch?v=zD3bWB2s5Lk)
