@@ -73,7 +73,7 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
   * [KERFMaster](http://www.spectrumsupply.com/kerfmaster-2.aspx) (Spectrum Supply) - specs seem similar, but no claim that they are the same blade. Available in a 5/8" width and a narrow blade made from 0.016" stock – as well as 1/2", 5/8", and 3/4" in 0.022" thickness.
   * [Infinity Rip Bandsaw Blades](https://www.infinitytools.com/saw-blades-accessories/bandsaw-blades-machines-accessories/band-saw-blades/infinity-rip-bandsaw-blades) - available in 5/8" and 3/4" widths.
 
-* Timberwolf
+* [Timberwolf](http://timberwolfblades.com/Blade-Selector.php#5) - 1/2" or 3/4" 2/3 VPC (variable pitch hook pattern) 0.025" - 5 tooth raker
 
 * Laguna Resaw King (carbide)
 
