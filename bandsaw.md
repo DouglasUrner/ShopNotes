@@ -135,11 +135,17 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 [Five Essential Bandsaw Jigs - Michael Fortune, FWW #180](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf) – Jigs for tapers, circles, wedges, and curves.
 
-### Curves
+### Curves (followers)
+
+A "pin" follows a template attached to the work. The resulting piece is slightly oversized and is usually trimmed on a table mounted router with a pattern bit.
 
 [Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
 
 [Flawless Curves on the Bandsaw - FWW #199](https://www.finewoodworking.com/2008/06/04/flawless-curves-on-the-bandsaw) - [PDF](https://www.finewoodworking.com/membership/pdf/9404/011199034.pdf)
+
+### Circles and Arcs
+
+### Sleds
 
 ### Dovetail
 
