@@ -88,6 +88,10 @@ The goal is to have a saw that cuts true, parallel to the miter slot, and that a
 1. Check the parallelism between the back of the blade and the guidepost. Adjust by shimming the wheels - while attempting to make / keep the wheels coplanar. Favor parallelism.
 1. Shim the table trunions to set the table square to the back of the blade.
 
+## Troubleshooting
+
+[Olsen Saw How-Tos for all Band Saw Blades](https://www.highlandwoodworking.com/library/manuals/rikon/bandsaw_blade_selection_guide.pdf) - by way of Highland Woodworking
+
 ## Tuning Articles
 
 Overviews:
