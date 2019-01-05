@@ -10,6 +10,13 @@ Motor: (can be wired for 115 or 230 volts)
 
 [708717A (3/4") Riser Kit Instructions](http://content.jettools.com/assets/manuals/708717A_man_EN.pdf)
 
+### Mods
+
+* Carter Tension Quick Release & Ratchet Rod
+* Ittura Blade Guard Hand Screws
+* Ittura Tracking Knob
+* Kreg Micro-adjustable Fence with resaw guide
+
 ## Blades
 
 [Essential Bandsaw Blades – Roland Johnson, FWW #252, 2016](https://www.finewoodworking.com/2015/12/02/essential-bandsaw-blades) – [PDF of full article](https://www.finewoodworking.com/membership/pdf/20025/011252052.pdf) – recommends:
