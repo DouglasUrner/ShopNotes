@@ -24,10 +24,10 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 
 ### Blade Width vs. Curve Radius
 
-| Blade Width | 1/8  | 3/16 | 1/4 | 3/8   | 1/2   | 5/8 | 3/4 |
-| :---------: | ---: | ---: | ---:| ----: | ----: | ---:| ---:|
-| Radius (mm) | 5    | 8    | 16  | 38    | 64    |     | 150 |
-| Radius (in) | 3/16 | 5/16 | 5/8 | 1 1/2 | 2 1/2 |     | 6   |
+| Blade Width | 1/8  | 3/32 | 3/16 | 1/4 | 3/8   | 1/2   | 5/8 | 3/4 |
+| :---------: | ---: | ---: | ---: | ---:| ----: | ----: | ---:| ---:|
+| Radius (mm) | 5    |      | 8    | 16  | 38    | 64    |     | 150 |
+| Radius (in) |      | 3/16 | 5/16 | 5/8 | 1 1/2 | 2 1/2 |     | 6   |
 
 ### Blade Geometry
 
@@ -38,6 +38,10 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 * Skip
 
 #### Set
+
+* Alternate
+* Raker
+* Wavey
 
 ### Thin Materials / Joinery
 
@@ -99,7 +103,7 @@ Highland Hardware [describes the process](https://www.highlandwoodworking.com/li
 
 They go on to suggest fine tuning the tension by "Before you bring the lateral guides and thrust bearings up close to the blade, close the wheel covers and turn the saw on. If vibration blurs the blade, try increasing or decreasing the tension very slightly until the blade runs smoothly in a straight, quiet line from wheel to wheel. Cuts will be smoother when you eliminate this source of fluttering in the kerf, and the saw will run quieter and more efficiently as well."
 
-A torque wrench on a Carter Ratchet-Rod seems like it would provide a way to calculate blade tension (or it would provide a way to consistantly set tension.
+A torque wrench on a Carter Ratchet-Rod seems like it would provide a way to calculate blade tension (or would, at least, provide a way to consistantly set tension).
 
 ### Squaring Table To The Blade (setting the stop and shimming the trunions)
 
