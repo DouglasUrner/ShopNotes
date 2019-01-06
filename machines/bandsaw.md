@@ -75,7 +75,7 @@ The limiting factor on blades for a 14" saw is the ablility of the saw frame to 
 
 * [Timberwolf](http://timberwolfblades.com/Blade-Selector.php#5) - 1/2" or 3/4" 2/3 VPC (variable pitch hook pattern) 0.025" - 5 tooth raker
 
-* Laguna Resaw King (carbide)
+* [Laguna Resaw King]() (carbide) 1.1 mm (0.041") kerf, Laugna claims that the blade can be resharpend 4 or 5 times. The Laguna web site shows 1" and 1.25" blade widths, Highland
 
 ## Bandsaw Set Up
 
