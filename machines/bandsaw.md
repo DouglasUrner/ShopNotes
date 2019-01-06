@@ -148,6 +148,8 @@ Note: If the blade is **not** tracking on the center of the wheel, then it will 
 
 1. Second dust collection port in the lower housing as the blade turns up at about 7:30.
 
+[Bandsaw Dust Collection That Works - Highland Woodworking](https://www.highlandwoodworking.com/bandsaw-dust-control-that-works-2.aspx) - adding a 6" dust port (over a 4" hole) in the lower wheel cover door at 6:00.
+
 ## Jigs & Technique
 
 [Five Essential Bandsaw Jigs - Michael Fortune, FWW #180](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf) – Jigs for tapers, circles, wedges, and curves.
