@@ -12,11 +12,15 @@
 
 ### Jigs & Techniques
 
-#### "Jointing" Warped / Twisted Stock
+#### Face "Jointing" Warped / Twisted Stock
 
 [Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material).
 
 [A smarter planer sled for flattening wide stock, FWW 2017](https://www.finewoodworking.com/2017/06/06/a-smarter-planer-sled-for-flattening-wide-stock)
+
+#### Planing Thin (< 3 mm / 1/8) Veneers
+
+[Sled For Planing Resawn Veneers](https://www.finewoodworking.com/2016/09/29/plane-shopsawn-veneers-perfectly-smooth) 
 
 #### Tapers
 
