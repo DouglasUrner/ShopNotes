@@ -4,7 +4,7 @@
 
 Blade length: 105"
 
-Motor: (can be wired for 115 or 230 volts)
+Motor: 1 HP (can be wired for 115 or 230 volts)
 
 [Factory Manual and parts list](https://content.jettools.com/assets/manuals/708115K_man_EN.pdf)
 
@@ -16,6 +16,9 @@ Motor: (can be wired for 115 or 230 volts)
 * Ittura Blade Guard Hand Screws
 * Ittura Tracking Knob
 * Kreg Micro-adjustable Fence with resaw guide
+* Iturra Lower Wheel Brush
+
+The Jet tension spring measures 2 1/4" and appears to be collapsed (it does not reach to the 1/8" blade tension mark even when fully released). An Iturra high tension spring for a Jet 14" bandsaw is 3" long - which means that it reaches all the way to the bottom of the tension/tracking assembly. However, there does not appear to be enough "space" in the spring to allow it to develop full tension on the scale for a 3/4" blade. It also does not allow the blade tension to be fully released when changing blades when it is used with an Iturra nut.
 
 ## Blades
 
