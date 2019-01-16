@@ -197,7 +197,7 @@ A "pin" follows a template attached to the work. The resulting piece is slightly
 
 * Grizzley
 
-* Kreg
+* **Kreg** - Scale is self-adhesive in inches, a metric scale is available from Kreg and also from [Osborne Manufacturing](https://www.shop.osbornemfg.com/Osborne-30-self-stick-Mylar-R-to-L-Tape-Measure-FREE-SHIPPING-TM30.htm)
 
 * Woodhaven
 
