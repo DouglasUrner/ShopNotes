@@ -44,6 +44,9 @@ Festool LR-32
 
 ### Other Interesting Bench Designs
 
+**[Sean KS's Split Top Roubo MFT](http://festoolownersgroup.com/festool-jigs-tool-enhancements/split-top-roubo-mft-with-benchcrafted-incra-and-8020/)**  
+Thread on FOG with a very nice hybrid Roubo/MFT bench and 80/20 crosscut and rip jigs using Incra positioners.
+
 **Tom Casper's Torsion Box Benches:**
 
 * [*Box-Beam Bench*](https://www.popularwoodworking.com/woodworking-blogs/diy-workbench-plans-box-beam-bench/) - [Link to plans](http://bit.ly/BoxBeamBench)
