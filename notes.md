@@ -103,3 +103,5 @@ Festool LR-32
 [Bill Pentz - Cyclone and Dust Collection Research](http://billpentz.com/woodworking/cyclone/)
 
 [Dustopper Cyclone Tops for 5-Gallon Buckets](http://dustopper.com) - FOG thread: [FESTOPPER - an inexpensive Dust Extractor mounted cyclone](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festopper-an-inexpensive-dust-extractor-mounted-cyclone/)
+
+[Veritas Cyclone Lids](http://www.leevalley.com/en/wood/page.aspx?p=30282) 
