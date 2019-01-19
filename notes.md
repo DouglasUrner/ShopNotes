@@ -52,7 +52,8 @@ Festool LR-32
 
 [Modified Paulk MFT Workbench and Miter Saw Stand](http://festoolownersgroup.com/festool-jigs-tool-enhancements/modified-paulk-mft-workbench-and-miter-saw-stand/)
 
-[Downdraft Kapex Workstation](http://festoolownersgroup.com/member-projects/kapex-installation) - downdraft table provides secondary dust collection, primary is the standard Kapex dust extractor connection. In this setup both are served by a ClearVue Cyclone. Author suggests adding more holes towards the front of the saw.
+**[Downdraft Kapex Workstation](http://festoolownersgroup.com/member-projects/kapex-installation)**  
+Downdraft table provides secondary dust collection, primary is the standard Kapex dust extractor connection. In this setup both are served by a ClearVue Cyclone. Author suggests adding more holes towards the front of the saw.
 
 ## Sawhorses
 
