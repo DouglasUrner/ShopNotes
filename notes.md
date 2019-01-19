@@ -20,6 +20,13 @@ Jerry Work's [Getting the Most out of the Festool Multifunction Table](https://s
 
 Steve Adams' [Festool MFT - Secrets Unveiled](http://www.festoolownersgroup.com/CoppermineMain/albums/Manuals/Festool_MFT_-_Secrets_Unveiled.pdf)
 
+### Crosscutting
+
+Festool MFT tables have a flip up bracket for a short rail that can be used for crosscuts. Alternative designs:
+
+**[MFT 3 ideas for small shop](http://festoolownersgroup.com/festool-jigs-tool-enhancements/mft-3-ideas-for-small-shop/) **
+Replacement hinge made from 80/20 extrusions and a linear bearing.
+
 ### 20 mm Dogs and related items
 
 Michael Gildersleave's [Expanding Dogs](https://www.youtube.com/watch?v=Qchujv3JjIg) - for securing jigs and the like on an MFT.
