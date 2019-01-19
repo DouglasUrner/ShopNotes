@@ -25,7 +25,7 @@ Steve Adams' [Festool MFT - Secrets Unveiled](http://www.festoolownersgroup.com/
 Festool MFT tables have a flip up bracket for a short rail that can be used for crosscuts. Alternative designs:
 
 **[MFT 3 ideas for small shop](http://festoolownersgroup.com/festool-jigs-tool-enhancements/mft-3-ideas-for-small-shop/)**  
-Self-adjusting replacement hinge made from 80/20 extrusions and a linear bearing.
+FOG thread on self-adjusting replacement hinge bracket made from 80/20 extrusions and a linear bearing, thread includes the list of 80/20 parts used. 
 
 ### 20 mm Dogs and related items
 
