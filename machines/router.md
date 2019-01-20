@@ -24,6 +24,8 @@ Lee Valley guide to working with their small drawer lock bits.
 
 #### Lock Miter Bits
 
+[Peter Parfit: How to make a lock mitre joint](https://www.youtube.com/watch?v=MtTAJO1Paj0) - says they work well in MDF.
+
 ### Pattern Bits
 
 ### Specialty Bits
