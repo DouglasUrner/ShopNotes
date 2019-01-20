@@ -7,4 +7,4 @@ Downdraft table provides secondary dust collection, primary is the standard Kape
 
 [Your Miter Saw Needs a Stand](https://www.finewoodworking.com/2009/12/01/your-miter-saw-needs-a-stand) - [PDF of full article](https://www.finewoodworking.com/membership/pdf/57507/011209052.pdf)
 
-[Fine Homebuilding: Ultimate Miter-Saw Stand](https://www.finehomebuilding.com/2011/03/10/ultimate-miter-saw-stand)
+[Fine Homebuilding: Ultimate Miter-Saw Stand](https://www.finehomebuilding.com/2011/03/10/ultimate-miter-saw-stand) - [PDF of full article](https://www.finehomebuilding.com/membership/pdf/5896/021218044.pdf)
