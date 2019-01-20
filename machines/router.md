@@ -8,6 +8,10 @@
 
 #### Drawer Lock
 
+* CMT: 
+* Infinity: 
+* Whiteside: 
+
 **Setup:** 
 **Sides:** align the lower (smaller) diameter of the cutter with the face of the fence. Set the height of the bit so that the top of the cutter is at one-half of the stock thickness above the table.  
 **Front & Back (flush):** align the fence so that the exposure of the larger (upper) diameter of the cutter is equal to the side stock thickness.  
