@@ -4,12 +4,14 @@
 
 ### Joint Making Bits
 
+#### Dovetail
+
 #### Drawer Lock
 
 **[Small Drawer Lock Bits](http://www.leevalley.com/US/html/16j7672ie.pdf)**  
 Lee Valley guide to working with their small drawer lock bits.
 
-**[Lock Miter Bits]()**  
+#### Lock Miter Bits
 
 ### Pattern Bits
 
