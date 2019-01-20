@@ -20,9 +20,13 @@
 
 [Orange Aluminum](https://www.orangealuminum.com/t-tracks-and-framing-systems.html) - they also have metric sized aluminum hex stock that might be useful with the LR-32 system.
 
-### Adhesive Backed Rules
+### Metric Adhesive Backed Rules
 
 [Oregon Rule](https://oregonrule.com)
+
+Kreg
+
+Starrett
 
 ## Band Saw
 
@@ -73,6 +77,8 @@
 
 [UJK](https://knowledge.axminster.co.uk/pocket-hole-jigs/)
 
+Castle TSM-12
+
 ## Dust Collection
 
 System components, tool specicfic items are listed with the tools.
@@ -112,5 +118,13 @@ Locking handles for 7518 and old-style 690 base (1001) - **7518:** [Kipp](https:
 ### Third-party Dust Collection
 
 [Betterley Stacc-Vac](https://www.betterleytools.com)
+
+## Threaded Inserts For Wood
+
+### Hardwood 
+
+[E-Z Lok Knife Edge](https://www.ezlok.com/threaded-inserts-for-wood)
+
+### Softwood
 
 
