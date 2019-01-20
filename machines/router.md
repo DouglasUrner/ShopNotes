@@ -22,7 +22,8 @@
 
 #### Edge guides for jointing
 
-[Jointing Boards With the Router, FWW Shop Tips, 2005](https://www.finewoodworking.com/2005/10/25/jointing-boards-with-the-router)
+[Jointing Boards With the Router, FWW Shop Tips, 2005](https://www.finewoodworking.com/2005/10/25/jointing-boards-with-the-router)  
+Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited in to make a smooth and solid guide.
 
 ### Router Tables
 
