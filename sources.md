@@ -55,19 +55,27 @@ Starrett
 
 ## Cutting Tools (Bits, Blades, etc.)
 
+### Manufacturers
+
 [Amana Tool](https://www.amanatool.com/products/router-bits.html)
 
 [Byrd Tool](http://byrdtool.com) - Shelix spiral cutter heads and inserts for planers
 
-[Carbide Processors](http://www.carbideprocessors.com) - carbide tipped cutting tools
-
 [Forrest Manufacturing](https://www.forrestblades.com) - table, radial arm, and miter saw blades
+
+### Vendors
+
+[Carbide Processors](http://www.carbideprocessors.com) - carbide tipped cutting tools - Whiteside, Tenyru
+
+[Edge of Arlington Saw](http://www.eoasaw.com) - Whiteside, free shipping
 
 [Holbren](https://www.holbren.com) - planer knives, Byrd spiral heads
 
 [Router Bit World](http://www.routerbitworld.com) - router bits, forstner bits, $1 shipping in US, prices substantially lower than Amazon.
 
 [Suffolk Machine - Timberwolf](http://timberwolfblades.com/index.php) - bandsaw blades
+
+### Sharpening
 
 ## Drilling
 
