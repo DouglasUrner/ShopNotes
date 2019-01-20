@@ -43,7 +43,7 @@ Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited i
 #### Router Lifts
 
 **[Incra Mast-R-Lift](https://www.incrementaltools.com/ProductDetails.asp?ProductCode=INCRA-Mast-R-Lift-II)**  
-A modifided version of the Jess-em Mast-R-Lift. Metric and inch scales available.
+A modifided version of the Jess-em Mast-R-Lift that uses magnetic plates rather than twist in plates. Metric and inch scales available.
 
 **[Jess-em Mast-R-Lift II](https://jessem.com/collections/router-lifts-and-plates/products/mast-r-lift-ii)**  
 Metric and inch scales available.
