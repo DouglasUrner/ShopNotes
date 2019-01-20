@@ -7,6 +7,5 @@ The techniques are oriented towards drawers made for solid stock.
 * Drawerlock joint - not recomended for plywood drawers.
 * Rabbets and brads
 
-**[Peter Parfit: Mobile Bench Project - How to make simple drawers - Part 1](https://www.youtube.com/watch?v=51LITWKTpNs) - MDF drawers for shop cabinets.
-
-**[Peter Parfit: Mobile Bench Project - How to make simple drawers - Part 2](https://www.youtube.com/watch?v=3H9HSf78iQ8) - MDF drawers for shop cabinets.
+**[Peter Parfit: Mobile Bench Project - How to make simple drawers - Part 1](https://www.youtube.com/watch?v=51LITWKTpNs) - MDF drawers for shop cabinets.** & **[Part 2](https://www.youtube.com/watch?v=3H9HSf78iQ8)**  
+MDF drawers for shop cabinets, 18 mm MDF joinded with Dominos, fronts veneered with solid wood edgebanding.
