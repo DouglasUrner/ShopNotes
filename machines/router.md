@@ -67,7 +67,7 @@ Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited i
 A modifided version of the Jess-em Mast-R-Lift that uses magnetic plates rather than twist in plates. Metric and inch scales available.
 
 **[Jess-em Mast-R-Lift II](https://jessem.com/collections/router-lifts-and-plates/products/mast-r-lift-ii)**  
-Metric and inch scales available.
+Metric and inch scales available. Incra makes a kit to convert to their magnetic plates (it is spendy, about $130 (Jan 2019)).
 
 **[Jess-em Rout-R-Lift II](https://jessem.com/collections/router-lifts-and-plates/products/rout-r-lift-ii-model)**  
 
