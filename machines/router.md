@@ -1,5 +1,19 @@
 # Router
 
+## Dedicated Routers
+
+* Edge jointing / table pattern routing
+* Roundover
+* Dadoing
+
+## Machines
+
+### Table Mounted
+
+### Hand Held - no plunge
+
+### Plunge
+
 ## Bits
 
 ### Joint Making Bits
