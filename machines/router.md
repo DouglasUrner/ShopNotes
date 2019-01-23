@@ -9,8 +9,8 @@
 #### Drawer Lock
 
 * CMT: 
-* Infinity: 
-* Whiteside: 3347, 1" OD, 5/16" minimum cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
+* Infinity: 55-512, 1 3/4" CD, 1/2" CH
+* Whiteside: 3347, 1" CD, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
 
 **Setup:** 
 **Sides:** align the lower (smaller) diameter of the cutter with the face of the fence. Set the height of the bit so that the top of the cutter is at one-half of the stock thickness above the table.  
