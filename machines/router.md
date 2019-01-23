@@ -15,6 +15,8 @@ There are two ways to machine the front and back: *blind,* where the face of the
 * CMT: 
 * Infinity: 55-512, 1 3/4" CD, 1/2" CH, < 18,000 rpm - [download instructions](https://www.infinitytools.com/fileuploader/download/download/?d=0&file=custom%2Fupload%2FFile-1443023036.pdf)
 * Whiteside: 3347, 1" / 3/4" CD (large/small diameters), 17/32" CH, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
+* Lee Valley - [Small Drawer Lock Bits](http://www.leevalley.com/US/html/16j7672ie.pdf)
+Lee Valley guide to working with their small drawer lock bits.
 
 **Setup:** 
 **Sides:** align the lower (smaller) diameter of the cutter with the face of the fence. Set the height of the bit so that the top of the cutter is at one-half of the stock thickness above the table.  
