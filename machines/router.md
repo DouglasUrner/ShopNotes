@@ -10,7 +10,7 @@
 
 * CMT: 
 * Infinity: 
-* Whiteside: 3347
+* Whiteside: 3347, 1" OD, 5/16" minimum cut, < 18,000 rpm
 
 **Setup:** 
 **Sides:** align the lower (smaller) diameter of the cutter with the face of the fence. Set the height of the bit so that the top of the cutter is at one-half of the stock thickness above the table.  
