@@ -9,7 +9,7 @@
 #### Drawer Lock
 
 * CMT: 
-* Infinity: 55-512, 1 3/4" CD, 1/2" CH
+* Infinity: 55-512, 1 3/4" CD, 1/2" CH, < 18,000 rpm - [download instructions](https://www.infinitytools.com/fileuploader/download/download/?d=0&file=custom%2Fupload%2FFile-1443023036.pdf)
 * Whiteside: 3347, 1" / 3/4" CD (large/small diameters), 17/32" CH, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
 
 **Setup:** 
