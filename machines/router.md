@@ -12,7 +12,7 @@ Sides are machined vertically with the inside face against the fence. The front 
 
 There are two ways to machine the front and back: *blind,* where the face of the front (or back) covers the endgrain of the sides, and *through* where the endgrain is exposed. For through joints only one stock thickness is possible (roughly the cutting height (CH).
 
-* CMT: 
+* CMT: 855.002.11
 * Infinity: 55-512, 1 3/4" CD, 1/2" CH, < 18,000 rpm - [download instructions](https://www.infinitytools.com/fileuploader/download/download/?d=0&file=custom%2Fupload%2FFile-1443023036.pdf)
 * Whiteside: 3347, 1" / 3/4" CD (large/small diameters), 17/32" CH, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
 * Lee Valley - [Small Drawer Lock Bits](http://www.leevalley.com/US/html/16j7672ie.pdf)
