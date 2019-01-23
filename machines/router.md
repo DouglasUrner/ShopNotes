@@ -27,6 +27,8 @@ Make a setup block. Use spacers to set bit exposure when switching between sides
 
 CMT's drawings look like bit height should be set at 12mm with the measuring point for each half of the cut at the mid-point on the slope.
 
+**Troubleshooting:**  
+
 #### Lock Miter Bits
 
 [Peter Parfit: How to make a lock mitre joint](https://www.youtube.com/watch?v=MtTAJO1Paj0) - works well in MDF. Explains cutter geometry and setup well. Align bit centerlines with 1/2 stock thickness above table and exposed beyond fence. Easier with setup blocks.
