@@ -10,7 +10,7 @@
 
 * CMT: 
 * Infinity: 
-* Whiteside: 
+* Whiteside: 3347
 
 **Setup:** 
 **Sides:** align the lower (smaller) diameter of the cutter with the face of the fence. Set the height of the bit so that the top of the cutter is at one-half of the stock thickness above the table.  
