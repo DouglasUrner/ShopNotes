@@ -17,7 +17,7 @@
 **Front & Back (flush):** align the fence so that the exposure of the larger (upper) diameter of the cutter is equal to the side stock thickness.  
 **Front (overlapping):** move the fence back from the back (flush) postion by the amount of the overlap.
 
-Make a setup block. Use spaces to set depth (Pat Warner's method).
+Make a setup block. Use spacers to set bit exposure when switching between sides and the front/back (Pat Warner's method).
 
 **[Small Drawer Lock Bits](http://www.leevalley.com/US/html/16j7672ie.pdf)**  
 Lee Valley guide to working with their small drawer lock bits.
