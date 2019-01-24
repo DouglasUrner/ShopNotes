@@ -91,3 +91,11 @@ Metric and inch scales available. Incra makes a kit to convert to their magnetic
 Different versions depending on the diameter of the router moter. Can be converted. Inch scale only.
 
 #### Table Structures
+
+#### Dust Collection
+
+Oneida
+
+Betterley VacSTAC
+
+Under table boxes
