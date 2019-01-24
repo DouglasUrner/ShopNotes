@@ -31,7 +31,8 @@ Cuts a 10.5 mm through joint. For 12 mm stock setting the cutter to take exactly
 * CMT: 855.502.11 & 855.508.11 - [CMT instructions](https://www.cmtorangetools.com/downloads/5716/273/143_352_how_to_make_drawers.pdf) (photos are too small and/or out of focus)  
 * Infinity: 55-512, 1 3/4" CD, 1/2" CH, < 18,000 rpm - [Infinity instructions (download)](https://www.infinitytools.com/fileuploader/download/download/?d=0&file=custom%2Fupload%2FFile-1443023036.pdf)  
 Looking at the Infinity catalog, it appears that this bit will cut a through joint in 12.7 mm stock.
-* Whiteside: 3347, 1" / 3/4" CD (large/small diameters), 17/32" CH, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
+* Whiteside: [3347](https://www.whitesiderouterbits.com/collections/locking-drawer-glue-joints/products/3347) [instructions](https://s3.amazonaws.com/shopify-custom-fields/whiteside-machine.myshopify.com/fields/products/pdf_instructions/8820071369/Locking%20Drawer%20Glue%20Joint.pdf)  
+1" / 3/4" CD (large/small diameters), 17/32" CH, 5/16" minimum vertical depth of cut, < 18,000 rpm - [Whiteside instructions from Highland Woodworking](https://www.highlandwoodworking.com/library/manuals/whiteside/WhitesideDrawerLockInstructions.pdf)
 * Lee Valley - [Small Drawer Lock Bits](http://www.leevalley.com/US/html/16j7672ie.pdf)
 Lee Valley guide to working with their small drawer lock bits.
 
