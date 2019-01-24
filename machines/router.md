@@ -79,8 +79,8 @@ Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited i
 
 #### Router Lifts
 
-**[Incra Mast-R-Lift](https://www.incrementaltools.com/ProductDetails.asp?ProductCode=INCRA-Mast-R-Lift-II)**  
-A modifided version of the Jess-em Mast-R-Lift that uses magnetic plates rather than twist in plates. Metric and inch scales available.
+**[Incra Mast-R-Lift II](https://www.incrementaltools.com/ProductDetails.asp?ProductCode=INCRA-Mast-R-Lift-II)**  
+A modifided version of the Jess-em Mast-R-Lift II that uses magnetic plates rather than twist in plates. Metric and inch scales available. The Incra plates are available in solid (standard) and preforated (accessory) for dust collection. There is also a solid plate for when the router is not in use.
 
 **[Jess-em Mast-R-Lift II](https://jessem.com/collections/router-lifts-and-plates/products/mast-r-lift-ii)**  
 Metric and inch scales available. Incra makes a kit to convert to their magnetic plates (it is spendy, about $130 (Jan 2019)).
