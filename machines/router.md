@@ -26,6 +26,8 @@ Sides are machined vertically with the inside face against the fence. The front 
 
 There are two ways to machine the front and back: *blind,* where the face of the front (or back) covers the endgrain of the sides, and *through* where the endgrain is exposed. For through joints only one stock thickness is possible (roughly the cutting height (CH).
 
+The bit can also be used - at full exposure - to cut drawer slides.
+
 * **Jeseda 855-512**  
 Cuts a 10.5 mm through joint. For 12 mm stock setting the cutter to take exactly the depth of the stock (maybe leaving < 0.1 mm) and taking two passes with the second on a shim of about 0.7 mm (the cardboard backing from a legal pad) without changing the exposure of the bit produces a nicely fitting through joint. Jeseda is out of business and the Infinity 55-512 bit does not appear to be a replacement. 
 * CMT: 855.502.11 & 855.508.11 - [CMT instructions](https://www.cmtorangetools.com/downloads/5716/273/143_352_how_to_make_drawers.pdf) (photos are too small and/or out of focus)  
