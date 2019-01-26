@@ -1,4 +1,4 @@
-## Dewalt 735 Planer
+## Dewalt 735 Planer with Wixey WR510 digital readout
 
 ### Setup & Tuning
 
@@ -14,9 +14,10 @@
 
 #### Face "Jointing" Warped / Twisted Stock
 
-[Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material).
+[Another Way to Flatten Warped Boards with Your Planer](https://www.finewoodworking.com/2010/05/25/another-way-to-flatten-warped-boards-with-your-planer) - route coplaner grooves in the stock and set shims then run through planer. Then plane off grooves (do you loose usable material?).
 
-[A smarter planer sled for flattening wide stock, FWW 2017](https://www.finewoodworking.com/2017/06/06/a-smarter-planer-sled-for-flattening-wide-stock)
+**[A smarter planer sled for flattening wide stock, FWW 2017](https://www.finewoodworking.com/2017/06/06/a-smarter-planer-sled-for-flattening-wide-stock)**  
+Built a similar sled using an Emerson 50" clamp with the locking lever reversed. Sled body is a 75 mm deep torsion box made out of 12 mm superlight MDF.
 
 #### Planing Thin (< 3 mm / 1/8) Veneers
 
@@ -30,7 +31,14 @@
 
 [Byrd Tool](http://byrdtool.com) - spiral cutter head 
 
-[Wixey WR510 Digital Planer Readout](http://www.wixey.com/planer/) - current (Type 2, 2018) version uses AAA batteries, the older Type 1 version used a CR2032 coin cell.
+**[Wixey WR510 Digital Planer Readout](http://www.wixey.com/planer/)**  
+
+To calibrate:
+1. Plane a piece of stock to a consistent thickness.
+2. Place under measuring foot.
+3. Press and hold **Cal** button until ABS flashes.
+
+Current (Type 2, 2018) version uses AAA batteries, the older Type 1 version used a CR2032 coin cell.
 
 ### Third Party Blades
 
