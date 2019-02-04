@@ -1,5 +1,11 @@
 # Motor Information
 
+## Resources
+
+**[Practical Machinist](https://www.practicalmachinist.com)**  
+**[Hobby Machinist](https://www.hobby-machinist.com/)**  
+* [All About Electrical Issues](https://www.hobby-machinist.com/forums/all-about-electrical-issues.23/)
+
 ## Decoding Sizing Information
 
 ## Variable Frequency Drives - VFD
