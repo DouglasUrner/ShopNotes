@@ -6,7 +6,7 @@
 
 Controllers are available with single-phase AC inputs and three-phase AC outputs.
 
-**[[Discussion of drill press conversion on Practical Machinist](https://www.practicalmachinist.com/vb/transformers-phase-converters-and-vfd/vfd-drill-press-173410/)**  
+**Discussion of drill press conversion on Practical Machinist:[VFD for drill press?](https://www.practicalmachinist.com/vb/transformers-phase-converters-and-vfd/vfd-drill-press-173410/)**  
 Takeaways:
 * When a motor is cooled by an intregal fan, slowing the motor reduces cooling.
 * Drill presses "loaf" most of the time, so cooling the motor may not be *too* much of a concern.
