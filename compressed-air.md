@@ -5,7 +5,7 @@
 ### Fixed Runs
 
 L series copper pipe  
-[RapidAir](https://rapidairproducts.com) MaxLine - available from Amazon 
+[RapidAir](https://rapidairproducts.com) MaxLine (similar to PEX with an aluminum lining) - available from Amazon, 3/4" kit with three outlets is $250.  
 TransAir about $6/foot  
 Black iron or galvanized  
 
