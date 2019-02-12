@@ -2,4 +2,6 @@
 
 Generally these are "off the beaten track" and wide-ranging. In order of discovery, more or less.
 
-[Atelier du Bricoleur](https://atelierdubricoleur.wordpress.com) - ideas for jigs and shop projects, in French and English.
+[Peter Parfit: New Brit Workshop](https://www.youtube.com/user/StoneMessage) - YouTube channel, also regularly posts on the Festool Owner's Group.
+
+[Atelier du Bricoleur](https://atelierdubricoleur.wordpress.com) - ideas for tools, jigs, and shop projects, in French and English. Well worth browsing.
