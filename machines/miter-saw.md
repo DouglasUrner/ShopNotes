@@ -1,3 +1,19 @@
+# Miter Saws
+
+## Kapex
+
+### Blades
+
+## Fences & Stops
+
+Working with short cuts (within the length of the saw's intregal fence, before you hit the scale of an aftermarket fence). Considerations:
+
+* Fence scale should be "direct reading" - the scale distance should directly correspond to the distance from the blade, it should not depend an a particular stop. This means that there is an area with no scale. Solve with a "short piece stop" that reads from an "artifical zero" - something like 500 mm so that conversions can easily be done in your head. Or maybe an auxillary "sub-fence" that has a scale and an adjustable stop that reaches all the way to the blade. It would have a left-to-right reading scale on the left hand side of the blade so that when it was extended fully and touching the blade it reads zero.
+
+### Incra
+
+### Fastcap
+
 ## Miter Saw Stand / Workstation Designs
 
 [Modified Paulk MFT Workbench and Miter Saw Stand](http://festoolownersgroup.com/festool-jigs-tool-enhancements/modified-paulk-mft-workbench-and-miter-saw-stand/)
