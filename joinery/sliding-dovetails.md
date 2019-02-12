@@ -2,7 +2,7 @@
 
 General considerations:
 
-* Large diameter of the bit - must be less than the width of the sides (male part).
+* Large diameter of the bit - must be less than the width of the sides (the tails or the male part).
 * Bit angle
 * Taper for sliding dovetail - roughly 1:100
 
