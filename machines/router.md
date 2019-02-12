@@ -110,7 +110,7 @@ Under table boxes
 
 ## Accessories
 
-### Metric Guide Bushings
+### Guide Bushings
 
-**Porter Cable Style:**  
+**Metric Porter Cable Style:**  
 * Axminster [UJK Technology Metric Threaded Guidebush Set](https://www.axminster.co.uk/ujk-technology-metric-threaded-guidebush-set-502571)
