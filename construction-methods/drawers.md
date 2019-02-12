@@ -7,6 +7,8 @@ The techniques are oriented towards drawers made for solid stock.
 * Drawerlock joint - works in solid and good plywood drawers.
 * Rabbets and brads
 
+**[Drawer Front Sliding Dovetail](https://atelierdubricoleur.wordpress.com/2013/12/23/drawer-front-sliding-dovetail-queues-daronde-coulissantes-de-facade-de-tiroir/)** - drawers built with stopped sliding dovetails.
+
 **Peter Parfit: Mobile Bench Project - How to make simple drawers - [Part 1](https://www.youtube.com/watch?v=51LITWKTpNs)** & **[Part 2](https://www.youtube.com/watch?v=3H9HSf78iQ8)**  
 MDF drawers for shop cabinets, 18 mm MDF joinded with Dominos, fronts veneered with solid wood edgebanding.
 
