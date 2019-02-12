@@ -69,7 +69,9 @@ CMT's drawings look like bit height should be set at 12mm with the measuring poi
 
 #### On a router table
 
-[Jointing Edges at the Router Table](https://atelierdubricoleur.wordpress.com/2013/09/18/cd-storage-cabinet-1-armoire-range-cd/) - an aside to a post about building a CD cabinet. Simple jig from a piece of MDF.
+Set up router with a 3/4" bottom (top on router table) or top and bottom piloted bit and make it a more or less permanant set up for edge jointing narrow stock and pattern work. Top and bottom pilots would make it easy to flip part (assuming that it is taped to pattern) to handle grain reversals. Set up with a plate the thickness of the bearing so that the changeover only requires removing or adding the plate.
+
+[Jointing Edges at the Router Table](https://atelierdubricoleur.wordpress.com/2013/09/18/cd-storage-cabinet-1-armoire-range-cd/) - an aside to a post about building a CD cabinet. Simple jig from a piece of MDF. Build jig(s) to take easy to work with cuts - e.g., 1 mm. Each jig can have two sides with a different cut on each side (0.5 mm and 1 mm or 1 mm and 2 mm).
 
 #### Edge guides for jointing
 
@@ -105,3 +107,10 @@ Oneida
 Betterley VacSTAC
 
 Under table boxes
+
+## Accessories
+
+### Metric Guide Bushings
+
+**Porter Cable Style:**  
+* Axminster [UJK Technology Metric Threaded Guidebush Set](https://www.axminster.co.uk/ujk-technology-metric-threaded-guidebush-set-502571)
