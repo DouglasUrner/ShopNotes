@@ -95,6 +95,13 @@ The goal is to have a saw that cuts true, parallel to the miter slot, and that a
 
 ## Troubleshooting
 
+### Tuning
+
+1. **Tracking** - Alex Snodgrass (Carter) says to run the gullets at the center of the upper wheel. Michael Fortune says to center the blade on the upper wheel. My current theory is to get the blade stable somewhere around the center of the wheel and then to fine tune until the blade is parallel to the mitre slot (actually, so that the cut runs parallel to the slot). To check the blade alignment you can place a straight edge on the blade so that it passes between the teeth. Or use a fancy tool.
+1. **Squaring the blade to the table** - With a tall and square piece of stock, make a short resaw cut then reverse the stock to check that the blade still aligns with the first cut.
+
+### Blade Selection
+
 [Olsen Saw How-Tos for all Band Saw Blades](https://www.highlandwoodworking.com/library/manuals/rikon/bandsaw_blade_selection_guide.pdf) - by way of Highland Woodworking
 
 ## Tuning Articles
