@@ -69,6 +69,8 @@ CMT's drawings look like bit height should be set at 12mm with the measuring poi
 
 #### On a router table
 
+[Jointing Edges at the Router Table](https://atelierdubricoleur.wordpress.com/2013/09/18/cd-storage-cabinet-1-armoire-range-cd/) - an aside to a post about building a CD cabinet. Simple jig from a piece of MDF.
+
 #### Edge guides for jointing
 
 [Jointing Boards With the Router, FWW Shop Tips, 2005](https://www.finewoodworking.com/2005/10/25/jointing-boards-with-the-router)  
