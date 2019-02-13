@@ -18,6 +18,8 @@ For anything that can be handled on the router table, that is the way to go sinc
 
 The pins can (should) be cut on the router table if the pieces are managable. For case ends and other parts that are too unwieldly to machine on a router table, a dado jig is used.
 
+For tapered joints one side can be square (untapered) with all of the taper on the other side - so an adjustable dado jig could be used. But you would have to be very careful to keep track of where the taper is to avoid mistakes.
+
 ### Articles
 
 * [How To Make Sliding Dovetails](https://www.wwgoa.com/article/making-sliding-dovetails/) - methods for both through and half-blind sliding dovetails. Suggests using a vee-groove bit (or a center finder bit) to help with setup.
