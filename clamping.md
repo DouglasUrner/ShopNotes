@@ -2,7 +2,7 @@
 
 ## Cauls
 
-**Machining cauls:**  
+**Machining cambered cauls:**  
 
 Use relatively straight and knot free construction lumber. Then:
 
