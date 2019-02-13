@@ -13,6 +13,11 @@ Use relatively straight and knot free construction lumber. Then:
 1. Separate the pair.
 1. Apply packing tape on the curved edges.
 
+Or:
+
+1. Cut a straight-line taper from the center to each end.
+1. Ease the point in the center with a handplane or by sanding.
+
 []()
 
 ### Other Approaches (not cambered cauls)
