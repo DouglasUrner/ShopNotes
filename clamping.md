@@ -15,6 +15,6 @@ Use relatively straight and knot free construction lumber. Then:
 
 []()
 
-### Approaches (not cambered cauls)
+### Other Approaches (not cambered cauls)
 
 [Workshop Tip: Angle Bars Tame Big Panel Glue-ups](https://www.finewoodworking.com/2018/04/17/268-workshop-tip-angle-bars-tame-big-panel-glue-ups)
