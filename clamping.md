@@ -1,4 +1,4 @@
-# Clamps
+# Clamping
 
 ## Cauls
 
