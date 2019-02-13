@@ -16,9 +16,13 @@ For anything that can be handled on the router table, that is the way to go sinc
 
 ## Jigs & Methods
 
+Start by flattening stock and planning all of the tail boards to *exactly* the same thickness if the tails are being cut on a router table since the final size of the tails is determined by the amount of material cut away.
+
 The pins can (should) be cut on the router table if the pieces are managable. For case ends and other parts that are too unwieldly to machine on a router table, a dado jig is used.
 
 For tapered joints one side can be square (untapered) with all of the taper on the other side - so an adjustable dado jig could be used. But you would have to be very careful to keep track of where the taper is to avoid mistakes.
+
+Cut tails on a router table using a feather board and a tall auxillary fence to ensure that the cuts are consistant.
 
 ### Articles
 
