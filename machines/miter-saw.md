@@ -14,10 +14,10 @@ Working with short cuts (within the length of the saw's intregal fence, before y
 
 ### Incra
 
-Two track systems:
+Two track systems available in lengths up to 52":
 
 *
-* [Flip Track](https://www.incrementaltools.com/IncraLOCK_Flip_Shop_Stop_Fence_52_p/flipfnc52.htm) - Fits the [Incra Flip Shop Stop](http://www.incrementaltools.com/Incremental_Flip_Shop_Stop_Positioner_p/flipshopstop.htm), but not the Shop Stop. There is no obvious way to set stops close to the blade.
+* [Flip Track](https://www.incrementaltools.com/IncraLOCK_Flip_Shop_Stop_Fence_52_p/flipfnc52.htm) - Fits the [Incra Flip Shop Stop](http://www.incrementaltools.com/Incremental_Flip_Shop_Stop_Positioner_p/flipshopstop.htm), but not the Shop Stop. There is no obvious way to set stops close to the blade. A telescoping version is also available.
 
 ### Fastcap Best Fence System
 
