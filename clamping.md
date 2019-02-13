@@ -2,6 +2,8 @@
 
 ## Cauls
 
+[Convenient Cauls for Panel Glue-ups](https://www.finewoodworking.com/2015/12/02/convenient-cauls-for-panel-glue-ups)
+
 **Machining cambered cauls:**  
 
 Use relatively straight and knot free construction lumber. Then:
