@@ -12,7 +12,7 @@ For anything that can be handled on the router table, that is the way to go sinc
 
 [Whiteside K33 (Keller 1633)](https://www.whitesiderouterbits.com/products/K33) - 7°, 7/16" (11.11 mm) LD, 3/4" (19.05 mm) DOC. No need for the bearing, but it is not in the way. At an 8 mm DOC the top width of the pin is about 10 mm.
 
-[]() - downcut spiral for wasting the center of the pins before cutting the actual dovetail. The diameter has to be selected to be no larger than the narrowest (top) width of the pin.
+[Whiteside RD2100](https://www.whitesiderouterbits.com/collections/down-cut-spirals/products/rd2100) - 1/4" LD, 1" DOC downcut spiral for wasting the center of the pins before cutting the actual dovetail. The diameter has to be selected to be no larger than the narrowest (top) width of the pin.
 
 ## Jigs & Methods
 
