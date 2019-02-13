@@ -3,10 +3,22 @@
 General considerations:
 
 * Large diameter of the bit - must be less than the width of the sides (the tails or the male part).
-* Bit angle
+* Bit angle - common advice is to use a small angle (e.g., 7°) for hardwood and a larger angle (e.g., 14°) for softwood. A small angle bit also leaves a stouter neck on the tail.
 * Taper for sliding dovetail - roughly 1:100
 
+For anything that can be handled on the router table, that is the way to go since the joint can be cut using the same height setting on the table.
+
+## Bits
+
+[Whiteside K33 (Keller 1633)](https://www.whitesiderouterbits.com/products/K33) - 7°, 7/16" (11.11 mm) LD, 3/4" (19.05 mm) DOC. No need for the bearing, but it is not in the way. At an 8 mm DOC the top width of the pin is about 10 mm.
+
+[]() - downcut spiral for wasting the center of the pins before cutting the actual dovetail. The diameter has to be selected to be no larger than the narrowest (top) width of the pin.
+
 ## Jigs & Methods
+
+The pins can (should) be cut on the router table if the pieces are managable. For case ends and other parts that are too unwieldly to machine on a router table, a dado jig is used.
+
+### Articles
 
 * [How To Make Sliding Dovetails](https://www.wwgoa.com/article/making-sliding-dovetails/) - methods for both through and half-blind sliding dovetails. Suggests using a vee-groove bit (or a center finder bit) to help with setup.
 
