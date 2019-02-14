@@ -12,7 +12,7 @@ Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
 
 Soft-start feature means that external speed controls can not be used.
 
-* **[Rockwell (PC)]()**  
+### **[Rockwell (PC)]()**  
 
 More or less a 1.25 HP PC 690 (collets and bases are the same).
 
@@ -20,7 +20,7 @@ More or less a 1.25 HP PC 690 (collets and bases are the same).
 
 Takes Type 1 Musclechuck
 
-* **[Festool OF 1400]()**  
+### **[Festool OF 1400]()**  
 
 Takes Type 2 Musclechuck
 
@@ -28,27 +28,13 @@ Takes Type 2 Musclechuck
   - [Supplemental Manual]()
   - [Parts List]()
   
-* **[Festool OF 1010]()**  
+### **[Festool OF 1010]()**  
 
 Collets: 1/4 and 8 mm
 
   - [Manual]()
   - [Supplemental Manual]()
   - [Parts List]()
-
-## Dedicated Routers
-
-* Edge jointing / table pattern routing
-* Roundover
-* Dadoing
-
-## Machines
-
-### Table Mounted
-
-### Hand Held - no plunge
-
-### Plunge
 
 ### Pattern Routing
 
@@ -64,3 +50,5 @@ Materials:
 
 **Metric Porter Cable Style:**  
 * Axminster [UJK Technology Metric Threaded Guidebush Set](https://www.axminster.co.uk/ujk-technology-metric-threaded-guidebush-set-502571)
+
+**Festool:**
