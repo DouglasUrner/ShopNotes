@@ -24,6 +24,8 @@ For tapered joints one side can be square (untapered) with all of the taper on t
 
 Cut tails on a router table using a feather board and a tall auxillary fence to ensure that the cuts are consistant.
 
+The pins on stopped sliding dovetails can be cut by plunging or breaching (?) the cutter - as long as the cutter is smaller in diameter than the width of the tail board the holes left will be hidden. If the cut on the pin boards is stopped about one cutter diameter from the end then the tails can be trimmed on the same setup.
+
 ### Articles
 
 * [How To Make Sliding Dovetails](https://www.wwgoa.com/article/making-sliding-dovetails/) - methods for both through and half-blind sliding dovetails. Suggests using a vee-groove bit (or a center finder bit) to help with setup.
