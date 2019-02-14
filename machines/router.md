@@ -73,7 +73,9 @@ Set up router with a 3/4" bottom (top on router table) or top and bottom piloted
 
 [Jointing Edges at the Router Table](https://atelierdubricoleur.wordpress.com/2013/09/18/cd-storage-cabinet-1-armoire-range-cd/) - an aside to a post about building a CD cabinet. Simple jig from a piece of MDF. Build jig(s) to take easy to work with cuts - e.g., 1 mm. Each jig can have two sides with a different cut on each side (0.5 mm and 1 mm or 1 mm and 2 mm).
 
-#### Edge guides for jointing
+#### With an edge guide
+
+[How to Joint Two Boards at Once with Your Router](https://www.popularwoodworking.com/editors-blog/how-to-joint-two-boards-at-once-with-your-router/) - clamp boards with the edges to be jointed facing each other and spaced so that a router bit will trim about 0.5 to 1 mm from both boards at once - as if you were cutting a dado. Clamp an edge guide to one of the boards so that it will guide the router down the center of the gap between the boards. Any deviation of the router bit or bow in the guide should be mirrored on the other board resulting in a perfect fit.
 
 [Jointing Boards With the Router, FWW Shop Tips, 2005](https://www.finewoodworking.com/2005/10/25/jointing-boards-with-the-router)  
 Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited in to make a smooth and solid guide.
