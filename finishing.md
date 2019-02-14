@@ -2,9 +2,9 @@
 
 ## Festool Abrasives
 
-Garnat () - General purpose
+Garnat (Light Blue) - General purpose
 
-Rubin 2 () - Unfinished wood
+Rubin 2 (Redish Brown) - Unfinished wood
 
 ## Sanding Blocks
 
