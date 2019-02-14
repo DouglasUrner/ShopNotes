@@ -4,7 +4,7 @@
 
 ### Porter Cable
 
-#### [Porter Cable 7518](https://www.portercable.com/products/power-tools/woodworking-tools/routers/314-hp-maximum-motor-hp-fivespeed-router/7518)
+#### [Porter Cable Speedmatic 7518](https://www.portercable.com/products/power-tools/woodworking-tools/routers/314-hp-maximum-motor-hp-fivespeed-router/7518)
 Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
 
   - [Manual](https://www.carid.com/images/porter-cable/items/pdf/7518-2-instruction-manual.pdf).
