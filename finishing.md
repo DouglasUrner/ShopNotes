@@ -2,7 +2,7 @@
 
 ## Festool Abrasives
 
-Brilliant 2 () - General purpose, paint & varnish. Less expensive than Garnat.
+Brilliant 2 (Light Gray) - General purpose, paint & varnish. Less expensive than Garnat. Discontinued?
 
 Garnat (Light Blue) - General purpose
 
