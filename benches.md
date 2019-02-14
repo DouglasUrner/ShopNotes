@@ -1,3 +1,9 @@
+# Benches and The Like
+
+[My custom built expandable MFT on rolling cart](http://festoolownersgroup.com/festool-jigs-tool-enhancements/my-custom-built-expandable-mft-on-rolling-cart/)
+
+[Dust Extraction Hose & Power Cord Management](http://festoolownersgroup.com/festool-jigs-tool-enhancements/dust-extraction-hose-power-cord-management/)
+
 ## Portable / Knockdown Workbench Design
 
 Tim Wilmont's [MF-TC - Multi-Function Tool Cart](https://benchworks.be/en/projects/mf-tc-multifunction-tool-cart/) - FOG thread on the [MFTC portable workshop](http://festoolownersgroup.com/festool-jigs-tool-enhancements/mftc-portable-workshop/)
