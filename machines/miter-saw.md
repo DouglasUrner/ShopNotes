@@ -1,6 +1,9 @@
 # Miter Saws
 
-## Kapex
+## [Kapex KS 120]()
+
+* [Manual]()
+* [Supplemental Manual by Rick Christopherson](https://service.festoolusa.com/media/pdf/Kapex-KS120-Supplemental-Manual.pdf)
 
 ### Blades
 
