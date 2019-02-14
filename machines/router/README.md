@@ -3,13 +3,13 @@
 **General Bit Speed Recommendations:**
 
 In general: bigger == slower. When in doubt use the slowest speed available.
-
-| Bit Diameter | Maximum Speed |
-|         ---: |          ---: |
-| Up to 1 inch |        24,000 |
-| 1 to 2 inches	| 18,000 rpm |
-| 2 to 2-1/2 inches	| 16,000 rpm |
-| 2-1/2 to 3-1/2 inches	| 12,000 rpm |
+ 
+| Bit Diameter            | Maximum RPM |
+|                    ---: |        ---: |
+| Up to 25 mm (1")        |      24,000 |
+| 25 - 50 mm (1 - 2")	    |      18,000 |
+| 50 - 63 mm (2 - 2.5")	  |      16,000 |
+| 63 - 83 mm (2.5 - 3.5")	|      12,000 |
 
 ## Sections
 
