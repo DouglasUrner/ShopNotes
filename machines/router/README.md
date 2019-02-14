@@ -4,3 +4,4 @@
 * [Router Bits](router-bites.md) - bits and setup notes
 * [Router Tables](router-tables.md) - router tables, fences, related accessories and jigs
 * [Jigs](handheld-router-jigs.md) - jigs for use with handheld routers
+* [Jointing With A Router](router-as-jointer.md) - methods of jointing using a router
