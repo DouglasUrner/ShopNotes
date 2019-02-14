@@ -30,6 +30,10 @@ Festool USA switched to imperial measure scales around 2016 - the only change on
 
 #### [Festool OF 1400 EQ]()
 
+**Speed Control:** 10,000 - 22,500 RPM (no load - continuously variable)
+
+The speed control dial is marked 1-6. Festool does not publish a mapping between the dial markings and the actual speeds (though presumably 1 is 10,000 and 6 is 22,500). They do publish recommended settings for bit size and materials:
+
 Takes Type 2 Musclechuck
 
   - [Manual](https://service.festoolusa.com/media/pdf/465324_006_OF%201400_USA.pdf)
