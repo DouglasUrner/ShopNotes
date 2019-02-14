@@ -5,3 +5,5 @@ Generally these are "off the beaten track" and wide-ranging. In order of discove
 [Peter Parfit: New Brit Workshop](https://www.youtube.com/user/StoneMessage) - YouTube channel, also regularly posts on the Festool Owner's Group.
 
 [Atelier du Bricoleur](https://atelierdubricoleur.wordpress.com) - ideas for tools, jigs, and shop projects, in French and English. Well worth browsing.
+
+[ToolGuyD](https://toolguyd.com/category/diy-projects/?utm_source=post&utm_medium=web&utm_campaign=breadcrumbs-category) - useful information on building shop cabinets using "80/20 style" extrusions.
