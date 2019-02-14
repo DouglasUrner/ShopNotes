@@ -38,7 +38,7 @@ Takes Type 2 Musclechuck
   
 #### [Festool OF 1010](https://www.festoolusa.com/products/routing/routers/574691---of-1010-eq-f-plus-usa)
 
-**Speed Control: ** 10,000 - 23,000 RPM (continuously variable)
+**Speed Control:** 10,000 - 23,000 RPM (continuously variable)
 
 Collets: 1/4 and 8 mm
 
