@@ -36,7 +36,7 @@ Takes Type 2 Musclechuck
   - [Supplemental Manual by Rick Christopherson](https://service.festoolusa.com/media/pdf/OF1400_manual_usa.pdf)
   - [Parts List]()
   
-#### **[Festool OF 1010]()**
+#### **[Festool OF 1010](https://www.festoolusa.com/products/routing/routers/574691---of-1010-eq-f-plus-usa)**
 
 **Speed Control: ** 10,000 - 23,000 RPM (continuously variable)
 
