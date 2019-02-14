@@ -2,7 +2,9 @@
 
 ## Machines
 
-### [Porter Cable 7518](https://www.portercable.com/products/power-tools/woodworking-tools/routers/314-hp-maximum-motor-hp-fivespeed-router/7518)
+### Porter Cable
+
+#### [Porter Cable 7518](https://www.portercable.com/products/power-tools/woodworking-tools/routers/314-hp-maximum-motor-hp-fivespeed-router/7518)
 Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
 
   - [Manual](https://www.carid.com/images/porter-cable/items/pdf/7518-2-instruction-manual.pdf).
@@ -12,7 +14,7 @@ Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
 
 Soft-start feature means that external speed controls can not be used.
 
-### **[Rockwell (PC)]()**  
+#### **[Rockwell (PC)]()**  
 
 More or less a 1.25 HP PC 690 (collets and bases are the same).
 
@@ -20,27 +22,32 @@ More or less a 1.25 HP PC 690 (collets and bases are the same).
 
 Takes Type 1 Musclechuck
 
-### **[Festool OF 1400]()**  
+### Festool
+
+Each Festool router is unique - in general accessories can not be shared between them.
+
+Festool USA switched to imperial measure scales around 2016 - the only change on the routers is the plunge depth scale. The metric part is available gratis from Festool.
+
+#### **[Festool OF 1400 EQ]()**  
 
 Takes Type 2 Musclechuck
 
   - [Manual]()
-  - [Supplemental Manual]()
+  - [Supplemental Manual by Rick Christopherson](https://service.festoolusa.com/media/pdf/OF1400_manual_usa.pdf)
   - [Parts List]()
   
-### **[Festool OF 1010]()**  
+#### **[Festool OF 1010]()**  
 
 Collets: 1/4 and 8 mm
 
-  - [Manual]()
+  - [Manual](https://service.festoolusa.com/media/pdf/467817_003_OF%201010_USA.pdf)
   - [Supplemental Manual]()
   - [Parts List]()
 
-## Accessories
+## Common Accessories
 
 ### Guide Bushings
 
 **Metric Porter Cable Style:**  
 * Axminster [UJK Technology Metric Threaded Guidebush Set](https://www.axminster.co.uk/ujk-technology-metric-threaded-guidebush-set-502571)
 
-**Festool:**
