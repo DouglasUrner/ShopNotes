@@ -75,7 +75,8 @@ Set up router with a 3/4" bottom (top on router table) or top and bottom piloted
 
 #### With an edge guide
 
-**[How to Joint Two Boards at Once with Your Router](https://www.popularwoodworking.com/editors-blog/how-to-joint-two-boards-at-once-with-your-router/)**  clamp boards with the edges to be jointed facing each other and spaced so that a router bit will trim about 0.5 to 1 mm from both boards at once - as if you were cutting a dado. Clamp an edge guide to one of the boards so that it will guide the router down the center of the gap between the boards. Any deviation of the router bit or bow in the guide should be mirrored on the other board resulting in a perfect fit. ![Illustration of technique - not visible when following the link](https://s26462.pcdn.co/wp-content/uploads/Joint-Two-Boards-at-Once-1.jpg)
+**[How to Joint Two Boards at Once with Your Router](https://www.popularwoodworking.com/editors-blog/how-to-joint-two-boards-at-once-with-your-router/)**  
+  Clamp boards with the edges to be jointed facing each other and spaced so that a router bit will trim about 0.5 to 1 mm from both boards at once - as if you were cutting a dado. Clamp an edge guide to one of the boards so that it will guide the router down the center of the gap between the boards. Any deviation of the router bit or bow in the guide should be mirrored on the other board resulting in a perfect fit. ![Illustration of technique - not visible when following the link](https://s26462.pcdn.co/wp-content/uploads/Joint-Two-Boards-at-Once-1.jpg)
 
 [Jointing Boards With the Router, FWW Shop Tips, 2005](https://www.finewoodworking.com/2005/10/25/jointing-boards-with-the-router)  
 Uses bottom piloted trim bit with a edge guide with an aluminum angle rabbited in to make a smooth and solid guide.
