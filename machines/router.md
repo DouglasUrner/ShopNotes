@@ -69,6 +69,12 @@ For making bushing guided cuts on a router table. Uses an Ikea plastic cutting b
 
 ### Pattern Routing
 
+#### Making Templates
+
+Materials:
+* 1/2 MDF
+* Ikea cutting boards
+
 ### Jointing
 
 #### On a router table
