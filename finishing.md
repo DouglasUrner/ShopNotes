@@ -2,6 +2,8 @@
 
 ## Festool Abrasives
 
+Brilliant 2 () - General purpose, paint & varnish. Less expensive than Garnat.
+
 Garnat (Light Blue) - General purpose
 
 Rubin 2 (Redish Brown) - Unfinished wood
