@@ -42,9 +42,13 @@ Takes Type 2 Musclechuck
 
 The speed control dial is marked 1-6. Festool does not publish a mapping between the dial markings and the actual speeds (though presumably 1 is 10,000 and 6 is 23,000). They do publish recommended settings for bit size and materials:
 
-| Material | 3-14 mm | 15-25 mm | 26-35 mm |
-| :--- | --- | --- | --- |
-| Hardwood | 6-4 | 5-3 | 3-1 |
+| Material  | 3-14 mm | 15-25 mm | 26-35 mm |
+| :---      | :---: | :---: | :---: |
+| Hardwood  | 6-4 | 5-3 | 3-1 |
+| Softwood  | 6-5 | 6-3 | 4-1 |
+| Sheet Goods | 6-5 | 6-3 | 4-2 |
+| Plastic   | 6-4 | 5-3 | 2-1 |
+| Aluminium | 3-1 | 2-1 | 1 |
 
 Collets: 1/4 and 8 mm
 
