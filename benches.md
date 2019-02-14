@@ -69,63 +69,11 @@ Thread on FOG with a very nice hybrid Roubo/MFT bench and 80/20 crosscut and rip
 
 ### Vices
 
-### Miter Saw Stands
-
-[Modified Paulk MFT Workbench and Miter Saw Stand](http://festoolownersgroup.com/festool-jigs-tool-enhancements/modified-paulk-mft-workbench-and-miter-saw-stand/)
-
-**[Downdraft Kapex Workstation](http://festoolownersgroup.com/member-projects/kapex-installation)**  
-Downdraft table provides secondary dust collection, primary is the standard Kapex dust extractor connection. In this setup both are served by a ClearVue Cyclone. Author suggests adding more holes towards the front of the saw.
-
 ## Sawhorses
 
 [Tri-Horse](http://lumberjocks.com/projects/96307) - [video](https://www.youtube.com/watch?v=kpJcG8J1-bs), [Kickstarter videos](https://www.youtube.com/watch?v=zD3bWB2s5Lk)
 
 [Shopdog](http://www.woodshopdude.com/index.html) - [Thread on LumberJocks](http://lumberjocks.com/projects/16736), [simplified clone of the Shopdog (parallel legs)](https://www.ehow.com/how_5498679_make-folding-sawhorse.html)
 
-## Systainers
 
-[Dimensions](https://www.tanos.de/007/En/HOME/PRODUCT_AREAS/systainer/Dimensions.html)
 
-[Carpentry Tool Organization, Makita, Festool Systainer Build](https://www.youtube.com/watch?v=LHMyhuZo2a0)
-
-[Sketchup Model for Systainer inserts](https://3dwarehouse.sketchup.com/model/edf07d0204c1820b7adda53967d00c3f/Systainer-Inserts) - article on FOG.
-
-[Resource: Free Plans/CAD Drawings to Make Your Own Custom Systainer Inserts](https://www.core77.com/posts/68718/Resource-Free-PlansCAD-Drawings-to-Make-Your-Own-Custom-Systainer-Inserts)
-
-[Sortainer/Systainer Organization](http://festoolownersgroup.com/festool-and-tanos-systainers/sortainersystainer-organization/)
-
-### DIY Sysports
-
-[Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
-
-#### Drawer construction
-
-[Systainer Shelf Router Template Help/Critique](http://festoolownersgroup.com/festool-jigs-tool-enhancements/systainer-shelf-router-template-helpcritique/)
-
-[Festool Systainer Feet Jig](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festool-systainer-feet-jig/)
-
-[Sysport Drawer Shelf Template Or Dimension](http://festoolownersgroup.com/festool-how-to/sysport-drawer-shelf-template-or-dimension/)
-
-[Two deep systainer drawers](http://festoolownersgroup.com/workshops-and-mobile-vehicle-based-shops/two-deep-systainer-drawers)
-
-## Jigs
-
-[4 Simple, Shop-Made Router Jigs](https://www.popularwoodworking.com/woodworking-blogs/editors-blog/4-simple-shop-made-router-jigs/)
-
-[Router Planing Sled](http://festoolownersgroup.com/festool-jigs-tool-enhancements/router-planing-sled/msg422028/#msg422028)
-
-### 32 mm Cabinet Construction
-
-[Festool LR-32 videos - The Poplar Shop (Mr. BigErock)](https://www.youtube.com/playlist?list=PLWQ1DAMaquDjTtCUIELBfVrNtocbQPXsy)
-
-### Dado
-
-## Dust Collection Systems & Design
-
-[Bill Pentz - Cyclone and Dust Collection Research](http://billpentz.com/woodworking/cyclone/)
-
-**[Dustopper Cyclone Tops for 5-Gallon Buckets](http://dustopper.com)**  
-FOG thread: [FESTOPPER - an inexpensive Dust Extractor mounted cyclone](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festopper-an-inexpensive-dust-extractor-mounted-cyclone/).  
-Sawmill Creek thread: [Dustopper ?!?](https://sawmillcreek.org/showthread.php?266218-Dustopper-) - includes comments from the designer.
-
-[Veritas Cyclone Lids](http://www.leevalley.com/en/wood/page.aspx?p=30282) 
