@@ -6,7 +6,7 @@
 Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
 
   - [Manual](https://www.carid.com/images/porter-cable/items/pdf/7518-2-instruction-manual.pdf).
-  - [Parts List]()
+  - [Parts List](http://go.rockler.com/tech/RTD10000204AA.pdf)
 
 **Speeds** (R-to-L when inverted at table): 10,000 - 13,000 - 16,000 - 19,000 - 21,000 RPM
 
