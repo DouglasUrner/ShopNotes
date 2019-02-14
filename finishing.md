@@ -2,9 +2,9 @@
 
 ## Festool Abrasives
 
-Garnat
+Garnat () - General purpose
 
-Rubin
+Rubin 2 () - Unfinished wood
 
 ## Sanding Blocks
 
