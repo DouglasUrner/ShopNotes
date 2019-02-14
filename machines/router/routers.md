@@ -10,11 +10,13 @@ Mounted in Incra Mast-R-Lift II with Type 1 Musclechuck.
   - [Manual](https://www.carid.com/images/porter-cable/items/pdf/7518-2-instruction-manual.pdf).
   - [Parts List](http://go.rockler.com/tech/RTD10000204AA.pdf)
 
-**Speeds** (R-to-L when inverted at table): 10,000 - 13,000 - 16,000 - 19,000 - 21,000 RPM
+**Five Speed** (R-to-L when inverted at table): 10,000 - 13,000 - 16,000 - 19,000 - 21,000 RPM
 
 Soft-start feature means that external speed controls can not be used.
 
-#### [Rockwell (PC)]()  
+#### [Rockwell (PC) 670]()
+
+**Fixed Speed:** 
 
 More or less a 1.25 HP PC 690 (collets and bases are the same).
 
@@ -30,7 +32,7 @@ Festool USA switched to imperial measure scales around 2016 - the only change on
 
 #### [Festool OF 1400 EQ]()
 
-**Speed Control:** 10,000 - 22,500 RPM (no load - continuously variable)
+**Variable Speed:** 10,000 - 22,500 RPM (no load - continuously variable)
 
 The speed control dial is marked 1-6. Festool does not publish a mapping between the dial markings and the actual speeds (though presumably 1 is 10,000 and 6 is 22,500). They do publish recommended settings for bit size and materials:
 
@@ -42,7 +44,7 @@ Takes Type 2 Musclechuck
   
 #### [Festool OF 1010](https://www.festoolusa.com/products/routing/routers/574691---of-1010-eq-f-plus-usa)
 
-**Speed Control:** 10,000 - 23,000 RPM (continuously variable)
+**Variable Speed:** 10,000 - 23,000 RPM (continuously variable)
 
 The speed control dial is marked 1-6. Festool does not publish a mapping between the dial markings and the actual speeds (though presumably 1 is 10,000 and 6 is 23,000). They do publish recommended settings for bit size and materials:
 
