@@ -30,6 +30,8 @@ The pins on stopped sliding dovetails can be cut by plunging or breaching (?) th
 
 * [How To Make Sliding Dovetails](https://www.wwgoa.com/article/making-sliding-dovetails/) - for small items, both tails and pins cut on the router table. Methods for both through and half-blind sliding dovetails. Suggests using a vee-groove bit (or a center finder bit) to help with setup.
 
+* [Sliding Dovetails](https://www.woodmagazine.com/woodworking-tips/techniques/routing/slidingdovetails)
+
 * [Tapered Sliding Dovetails](https://www.popularwoodworking.com/techniques/aw-extra-41212-tapered-sliding-dovetails/) - jig for pin boards.
 
 * [Tapered Sliding Dovetail Slot Jig](https://atelierdubricoleur.wordpress.com/2012/11/06/tapered-sliding-dovetail-slot-jig-gabarit-pour-rainures-a-queue-daronde-coulissante-fuselee/)
