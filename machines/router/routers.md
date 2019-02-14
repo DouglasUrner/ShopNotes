@@ -36,14 +36,6 @@ Collets: 1/4 and 8 mm
   - [Supplemental Manual]()
   - [Parts List]()
 
-### Pattern Routing
-
-#### Making Templates
-
-Materials:
-* 1/2 MDF
-* Ikea cutting boards
-
 ## Accessories
 
 ### Guide Bushings
