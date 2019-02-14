@@ -32,7 +32,7 @@ Festool USA switched to imperial measure scales around 2016 - the only change on
 
 Takes Type 2 Musclechuck
 
-  - [Manual]()
+  - [Manual](https://service.festoolusa.com/media/pdf/465324_006_OF%201400_USA.pdf)
   - [Supplemental Manual by Rick Christopherson](https://service.festoolusa.com/media/pdf/OF1400_manual_usa.pdf)
   - [Parts List]()
   
