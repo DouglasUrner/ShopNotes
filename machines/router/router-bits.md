@@ -13,7 +13,6 @@ There are two ways to machine the front and back: *blind,* where the face of the
 The bit can also be used - at full exposure - to cut drawer slides.
 
 | Bit | Minimum Height |
-|     | (through joint stock thickness |
 | --- | :---: |
 | Whiteside 3347 | 8 mm |
 |                | 5/16 |
