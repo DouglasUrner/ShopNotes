@@ -9,7 +9,7 @@
 
 ### Dimensions
 
-![](assets/kapex-dimensions.gif)
+![](../assets/kapex-dimensions.gif)
 
 Holddown bolts are 6 mm x 75 mm (or are they 8 mm?)
 
