@@ -19,6 +19,8 @@ Working with short cuts (within the length of the saw's intregal fence, before y
 
 [Incra (Flip) Track on mitre saw](http://festoolownersgroup.com/other-tools-accessories/incra-track-on-mitre-saw/)
 
+[Incra Flip Fence for the Kapex Mitre Station - Video](http://festoolownersgroup.com/festool-jigs-tool-enhancements/incra-flip-fence-for-the-kapex-mitre-station-video/)
+
 ### Incra
 
 Two track systems available in lengths up to 52":
@@ -31,6 +33,8 @@ Two track systems available in lengths up to 52":
 ## Miter Saw Stand / Workstation Designs
 
 [Kapex miter station (for compact living)](http://festoolownersgroup.com/festool-jigs-tool-enhancements/kapex-miter-station-(for-compact-living)/)
+
+[Extension wings for Kapex](http://festoolownersgroup.com/festool-jigs-tool-enhancements/extension-wings-for-kapex/)
 
 [Modified Paulk MFT Workbench and Miter Saw Stand](http://festoolownersgroup.com/festool-jigs-tool-enhancements/modified-paulk-mft-workbench-and-miter-saw-stand/)
 
