@@ -7,6 +7,12 @@
 
 ### Blades
 
+### Dimensions
+
+![](assets/kapex-dimensions.gif)
+
+Holddown bolts are 6 mm x 75 mm (or are they 8 mm?)
+
 ### Motor Failure "Issue"
 
 [Kapex Armature Replacement Guide](http://festoolownersgroup.com/festool-how-to/help-find-kapex-armature-replacement-guide/?action=dlattach;attach=292444)
