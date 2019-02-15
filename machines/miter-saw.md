@@ -7,6 +7,10 @@
 
 ### Blades
 
+### Motor Failure "Issue"
+
+[Kapex Armature Replacement Guide](http://festoolownersgroup.com/festool-how-to/help-find-kapex-armature-replacement-guide/?action=dlattach;attach=292444)
+
 ## Fences & Stops
 
 Working with short cuts (within the length of the saw's intregal fence, before you hit the scale of an aftermarket fence). Considerations:
