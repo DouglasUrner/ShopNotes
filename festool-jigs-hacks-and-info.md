@@ -32,6 +32,3 @@ Brice Burrell's [Festool LR 32-SYS tutorial](https://cdn.shopify.com/s/files/1/0
 
 ## Kapex
 
-![](assets/kapex-dimensions.gif)
-
-Holddown bolts are 6 mm x 75 mm
