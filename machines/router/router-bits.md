@@ -12,10 +12,12 @@ There are two ways to machine the front and back: *blind,* where the face of the
 
 The bit can also be used - at full exposure - to cut drawer slides.
 
-| Bit | Minimum Height |
-| --- | :---: |
-| Whiteside 3347 | 8 mm |
-|                | 5/16 |
+| Bit            | Minimum Stock |
+| :---           | :---:         |
+| Lee Valley     |  6 mm - 1/4 |
+| Whiteside 3347 |  8 mm - 5/16  |
+| Infinity 55-512 | 12.7 mm - 1/2 |
+| Whiteside 3352 | 14 mm - 9/16  |
 
 * **Jeseda 855-512**  
 Cuts a 10.5 mm through joint. For 12 mm stock setting the cutter to take exactly the depth of the stock (maybe leaving < 0.1 mm) and taking two passes with the second on a shim of about 0.7 mm (the cardboard backing from a legal pad) without changing the exposure of the bit produces a nicely fitting through joint. Jeseda is out of business and the Infinity 55-512 bit does not appear to be a replacement. 
