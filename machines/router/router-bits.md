@@ -14,8 +14,9 @@ The bit can also be used - at full exposure - to cut drawer slides.
 
 | Bit            | Minimum Stock |
 | :---           | :---:         |
-| Lee Valley     |  6 mm - 1/4 |
+| Lee Valley 16J76.72 |  6 mm - 1/4 |
 | Whiteside 3347 |  8 mm - 5/16  |
+| Jesseda 855-512 | 10 mm - 3/8 |
 | Infinity 55-512 | 12.7 mm - 1/2 |
 | Whiteside 3352 | 14 mm - 9/16  |
 
