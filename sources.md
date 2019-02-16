@@ -89,16 +89,6 @@ Starrett
 
 Castle TSM-12
 
-## Dust Collection
-
-System components, tool specicfic items are listed with the tools.
-
-[Clear Vue Cyclones](http://www.clearvuecyclones.com/)
-
-[Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
-
-[PowerTec Dust Management Products](http://powertecproducts.com/dust-management/)
-
 ## Miter Saw
 
 [Colliflower LLC](http://www.colliflower-zci.com) - Zero clearance inserts for Kapex.
