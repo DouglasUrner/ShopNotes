@@ -10,6 +10,6 @@
 FOG thread: [FESTOPPER - an inexpensive Dust Extractor mounted cyclone](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festopper-an-inexpensive-dust-extractor-mounted-cyclone/).  
 Sawmill Creek thread: [Dustopper ?!?](https://sawmillcreek.org/showthread.php?266218-Dustopper-) - includes comments from the designer.
 
-[Loc-Line](https://www.loc-line.com/products/2-5-vacuum-hose/) - hose system for dust collection where it is difficult, or not worth the time, to set up a "permanent" system - e.g., drill presses. Anti-static hose and fittings are available. Lee Valley stocks a limited selection of the non-anti-static components.
+[Loc-Line](https://www.loc-line.com/products/2-5-vacuum-hose/) - hose system for dust collection where it is difficult, or not worth the time, to set up a "permanent" system - e.g., drill presses. Anti-static hose and fittings are available. Lee Valley stocks a [limited selection](http://www.leevalley.com/US/wood/page.aspx?cat=1,42401,62604&p=58751) of the non-anti-static components.
 
 [Veritas Cyclone Lids](http://www.leevalley.com/en/wood/page.aspx?p=30282) 
