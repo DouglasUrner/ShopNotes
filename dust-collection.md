@@ -6,6 +6,16 @@
 
 [The Dust Hub - How to get the most out of just one CT - Video](http://festoolownersgroup.com/festool-jigs-tool-enhancements/the-dust-hub-how-to-get-the-most-out-of-just-one-ct-video/)
 
+## Dust Collection System Components
+
+System components, tool specicfic items are listed with the tools.
+
+[Clear Vue Cyclones](http://www.clearvuecyclones.com/)
+
+[Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
+
+[PowerTec Dust Management Products](http://powertecproducts.com/dust-management/)
+
 **[Dustopper Cyclone Tops for 5-Gallon Buckets](http://dustopper.com)**  
 FOG thread: [FESTOPPER - an inexpensive Dust Extractor mounted cyclone](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festopper-an-inexpensive-dust-extractor-mounted-cyclone/).  
 Sawmill Creek thread: [Dustopper ?!?](https://sawmillcreek.org/showthread.php?266218-Dustopper-) - includes comments from the designer.
