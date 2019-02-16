@@ -12,6 +12,8 @@ System components, tool specicfic items are listed with the tools.
 
 [Clear Vue Cyclones](http://www.clearvuecyclones.com/)
 
+[Harvey Gyro Air G700](https://www.harveywoodworking.com/products/g700)
+
 [Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
 
 [PowerTec Dust Management Products](http://powertecproducts.com/dust-management/)
