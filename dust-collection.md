@@ -6,6 +6,8 @@
 
 [The Dust Hub - How to get the most out of just one CT - Video](http://festoolownersgroup.com/festool-jigs-tool-enhancements/the-dust-hub-how-to-get-the-most-out-of-just-one-ct-video/)
 
+Blast gates can be equipped with low voltage magnetic reed switches (alarm switches) that can be used to turn on the dust collector. They could also be used to turn off power to machines whose blast gates are closed.
+
 ## Dust Collection System Components
 
 System components, tool specicfic items are listed with the tools.
@@ -17,6 +19,10 @@ System components, tool specicfic items are listed with the tools.
 [Magport](https://magport.net) – magnectic quick connects for dust collectors and the like
 
 [PowerTec Dust Management Products](http://powertecproducts.com/dust-management/)
+* Hose & clamps
+* Fittings
+* Blast gates
+* Swithches
 
 **[Dustopper Cyclone Tops for 5-Gallon Buckets](http://dustopper.com)**  
 FOG thread: [FESTOPPER - an inexpensive Dust Extractor mounted cyclone](http://festoolownersgroup.com/festool-jigs-tool-enhancements/festopper-an-inexpensive-dust-extractor-mounted-cyclone/).  
