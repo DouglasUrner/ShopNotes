@@ -4,6 +4,9 @@
 
 [Dimensions](https://www.tanos.de/007/En/HOME/PRODUCT_AREAS/systainer/Dimensions.html)
 
+Width: 396 mm (classic 400)  
+Depth: 296 mm (classic 300)
+
 [Carpentry Tool Organization, Makita, Festool Systainer Build](https://www.youtube.com/watch?v=LHMyhuZo2a0)
 
 [Sketchup Model for Systainer inserts](https://3dwarehouse.sketchup.com/model/edf07d0204c1820b7adda53967d00c3f/Systainer-Inserts) - article on FOG.
