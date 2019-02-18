@@ -2,6 +2,8 @@
 
 ## Jesseda Setup
 
-Top of carbide above table: 10.50 mm
-Cutter RPM: 16,000 (7518)
-Plate: 48 mm
+| Setting                         |        |
+|                            ---: | ---:   |
+| Top of carbide above table (mm) |  10.50 |
+| Cutter RPM (7518)               | 16,000 |
+| Plate (mm)                      |     48 |
