@@ -29,3 +29,5 @@ Under table boxes
 ## Fences
 
 [Micro-Adjustable Router Fence, Pat Warner, FWW #144, 2000](https://www.finewoodworking.com/2000/10/01/micro-adjustable-router-fence) - [PDF of full article](https://www.finewoodworking.com/membership/pdf/23091/011144089.pdf)
+
+[Fence Transforms Tablesaw Into a Real Router Table](https://www.finewoodworking.com/2010/02/02/fence-transforms-tablesaw-into-a-real-router-table) - router table fence with intregal dust collection.
