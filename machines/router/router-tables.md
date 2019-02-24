@@ -2,6 +2,8 @@
 
 ## Table Designs
 
+[Working-Class Router Table](https://www.finewoodworking.com/membership/pdf/19242/011244060.pdf) - [full article](https://www.finewoodworking.com/membership/pdf/19242/011244060.pdf)
+
 ## Plates
 
 ## Router Lifts
