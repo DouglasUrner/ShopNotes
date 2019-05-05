@@ -176,6 +176,8 @@ A "pin" follows a template attached to the work. The resulting piece is slightly
 
 [Flawless Curves on the Bandsaw - FWW #199](https://www.finewoodworking.com/2008/06/04/flawless-curves-on-the-bandsaw) - [PDF](https://www.finewoodworking.com/membership/pdf/9404/011199034.pdf)
 
+[Magnetic Bandsaw Template Jig](https://www.woodsmithplans.com/plan/band-saw-template-jig/) - adjustable height, attaches to table with large rare earth magnets, jact screw releases.
+
 ### Circles and Arcs
 
 ### Sleds
