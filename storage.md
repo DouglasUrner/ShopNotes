@@ -35,6 +35,10 @@ Depth: 396 mm
 
 ### Design
 
+Use full-extension slides with sufficient length to allow lid to open fully while in the drawer:
+* for front opening
+* for side opening
+
 Variations:
 * Front-opening Systainers
 * Side-opening Systainers
@@ -42,6 +46,7 @@ Variations:
 * Double-deep
 * Use long 3/4-extension drawer slides with space for rails, levels, or other long tools in the dead space behind the drawers.
 * Room to leave latch open
+* Number of columns - with side opening ensure that there is room to open a Systainer while the drower next to it is also open.
 
 [Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
 
