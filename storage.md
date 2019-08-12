@@ -4,15 +4,15 @@
 
 [Dimensions](https://www.tanos.de/007/En/HOME/PRODUCT_AREAS/systainer/Dimensions.html)
 
-**Mini:**
+**Mini (Sys-1 and 3):**
 
-Width:   
-Depth:
+Width: 265 mm  
+Depth: 171 mm
 
 **Standard (Sys-1 through 5):**
 
-Width: T-LOC: 396 mm; Classic: 400  
-Depth: T-LOC: 296 mm; Classic: 300
+Width: T-LOC: 396 mm; Classic: 400 mm  
+Depth: T-LOC: 296 mm; Classic: 300 mm
 
 **Midi (Sys-2 and 3):**
 
