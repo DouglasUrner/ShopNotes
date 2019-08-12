@@ -43,7 +43,7 @@ Depth: 396 mm
 
 Drawers with aluminum angle frames:
 * [Another DIY SYSPORT with some variations](http://festoolownersgroup.com/festool-and-tanos-systainers/another-diy-sysport-with-some-variations/msg379563) - drawer sides are made from 0.050 aluminum angle, bottoms from tempered hardboard.
-* [DIY Sysport](http://festoolownersgroup.com/festool-and-tanos-systainers/diy-sysport/msg370423) - miter fold drowers were cut on a chop saw.
+* [DIY Sysport](http://festoolownersgroup.com/festool-and-tanos-systainers/diy-sysport/msg370423) - miter fold drawers were cut on a chop saw.
 
 ### 32 mm Cabinet Construction
 
