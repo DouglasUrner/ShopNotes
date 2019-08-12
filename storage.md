@@ -37,7 +37,7 @@ Depth: 396 mm
 
 Use full-extension slides with sufficient length to allow lid to open fully while in the drawer:
 * for front opening
-* for side opening
+* for side opening you only need to clear the drawer above, but do consider being able to open a Systainer while the drawer next to it is open.
 
 Variations:
 * Front-opening Systainers
