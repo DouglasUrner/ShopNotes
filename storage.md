@@ -27,9 +27,10 @@ Depth: 396 mm
 
 [Sortainer/Systainer Organization](http://festoolownersgroup.com/festool-and-tanos-systainers/sortainersystainer-organization/)
 
-### DIY Sysports
 
-#### Design
+## DIY Sysports
+
+### Design
 
 Variations:
 * Front-opening Systainers
@@ -40,7 +41,7 @@ Variations:
 
 [Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
 
-#### Systainer Drawer Construction
+### Systainer Drawer Construction
 
 [Systainer Shelf Router Template Help/Critique](http://festoolownersgroup.com/festool-jigs-tool-enhancements/systainer-shelf-router-template-helpcritique/)
 
