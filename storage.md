@@ -27,6 +27,9 @@ Depth: 396 mm
 
 [Sortainer/Systainer Organization](http://festoolownersgroup.com/festool-and-tanos-systainers/sortainersystainer-organization/)
 
+### Systainer Disassembly
+
+[Removing/Swapping Lids](http://festoolownersgroup.com/festool-and-tanos-systainers/changing-lid-on-a-t-loc-systainer/)
 
 ## DIY Sysports
 
