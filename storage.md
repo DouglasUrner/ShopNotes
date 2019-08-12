@@ -47,6 +47,7 @@ Variations:
 * Use long 3/4-extension drawer slides with space for rails, levels, or other long tools in the dead space behind the drawers.
 * Room to leave latch open
 * Number of columns - with side opening ensure that there is room to open a Systainer while the drower next to it is also open.
+* Systainer type mix: a double-wide Sysport will hold either Maxi Systainers or two standard Systainers side-by-side (sander and paper, Carvex and accessories, etc.), a Sysport with at least 100 mm of extra depth could hold a Midi Systainer in the side opening position.
 
 [Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
 
