@@ -4,8 +4,20 @@
 
 [Dimensions](https://www.tanos.de/007/En/HOME/PRODUCT_AREAS/systainer/Dimensions.html)
 
-Width: 396 mm (classic 400)  
-Depth: 296 mm (classic 300)
+**Standard:**
+
+Width: T-LOC: 396 mm; Classic: 400  
+Depth: T-LOC: 296 mm; Classic: 300
+
+**Midi:**
+
+Width:  
+Depth:
+
+**Maxi:**
+
+Width:  
+Depth:
 
 [Carpentry Tool Organization, Makita, Festool Systainer Build](https://www.youtube.com/watch?v=LHMyhuZo2a0)
 
