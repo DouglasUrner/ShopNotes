@@ -29,6 +29,15 @@ Depth: 396 mm
 
 ### DIY Sysports
 
+#### Design
+
+Variations:
+* Front-opening Systainers
+* Side-opening Systainers
+* Double-wide
+* Double-deep
+* Use long 3/4-extension drawer slides with space for rails, levels, or other long tools in the dead space behind the drawers.
+
 [Sysport Design](https://www.youtube.com/watch?v=ijrgA5M2Xls) - The Poplar Shop (Mr. BigErock)
 
 #### Systainer Drawer Construction
