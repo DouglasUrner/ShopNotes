@@ -2,6 +2,8 @@
 
 ## Systainers
 
+Standard, Midi, and Maxi: 105 mm per "unit" (Sys-2 is really Sys-1.5) plus 4 mm for feet, only apply once for stacks.
+
 [Dimensions](https://www.tanos.de/007/En/HOME/PRODUCT_AREAS/systainer/Dimensions.html)
 
 **Mini (Sys-1 and 3):**
