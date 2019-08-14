@@ -33,10 +33,10 @@ Working with short cuts (within the length of the saw's intregal fence, before y
 
 ### Incra
 
-Two track systems available in lengths up to 52":
+Two track systems available in lengths up to 52" (64" in the telescoping version:
 
 * [Incra Track](https://incra.com/miter_gauges_accessories_incratracks.html) - Compatible with the (non-flip) [Incra Shop Stop](https://incra.com/miter_gauges_accessories_shopstop.html) ([manual](https://incra.com/manuals/Stop_web_use_only.pdf)). The fence is 1 3/4" tall, It can be mounted on a base to get greater height. [Incra Track Manual](https://incra.com/manuals/track.pdf)
-* [Flip Fence](https://incra.com/miter_gauges_accessories_flipfence.html) - Fits the [Incra Flip Shop Stop](http://www.incrementaltools.com/Incremental_Flip_Shop_Stop_Positioner_p/flipshopstop.htm) ([manual](https://incra.com/manuals/flip_shopstop_manual.pdf)), but not the Shop Stop. There is no obvious way to set stops close to the blade. A [telescoping version](https://incra.com/miter_gauges_accessories_telescoping_flipfence.html) is also available.
+* [Flip Fence](https://incra.com/miter_gauges_accessories_flipfence.html) - Fits the [Incra Flip Shop Stop](http://www.incrementaltools.com/Incremental_Flip_Shop_Stop_Positioner_p/flipshopstop.htm) ([manual](https://incra.com/manuals/flip_shopstop_manual.pdf)), but not the Shop Stop. Peter Parfit's video includes his method for  setting stops close to the blade. A [telescoping version](https://incra.com/miter_gauges_accessories_telescoping_flipfence.html) is also available. How do you maintain the incremental steps between the fixed and moving parts.
 
 ### Fastcap Best Fence System
 
