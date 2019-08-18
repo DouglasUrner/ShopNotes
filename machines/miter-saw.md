@@ -4,7 +4,7 @@
 
 ## [Kapex KS 120]()
 
-* [Manual]()
+* [Manual Download](https://www.festoolusa.com/-/media/tts/festool/festool-usa/downloads/manuals/472068_005_ks_120_usa.pdf)
 * [Supplemental Manual by Rick Christopherson](https://service.festoolusa.com/media/pdf/Kapex-KS120-Supplemental-Manual.pdf)
 
 ### Blades
