@@ -1,5 +1,7 @@
 # Miter Saws
 
+[Miter Saw Tune Up](https://www.finewoodworking.com/membership/pdf/8101/011154042.pdf)
+
 ## [Kapex KS 120]()
 
 * [Manual]()
