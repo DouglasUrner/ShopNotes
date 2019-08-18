@@ -64,6 +64,10 @@ Collets: 1/4 and 8 mm
 
 ## Common Accessories
 
+### Edge Guides
+
+* [Porter Cable 42690 Edge Guide](https://www.portercable.com/products/accessories/woodworking-accessories/specialty-accessories/template-guides/premium-straight-edge-guide/42690) fits Porter Cable 690 et al and also the Dewalt 611 trim router (maybe just the plunge base). [Instructions](https://servicenet.dewalt.com/documents/English/Instruction%20Manual/Porter-Cable/N030592,42690.pdf)
+
 ### Guide Bushings
 
 **Metric Porter Cable Style:**  
