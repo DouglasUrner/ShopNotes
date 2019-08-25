@@ -4,6 +4,8 @@ Grizley
 
 ## Chucks
 
+[Fix a loose drill press chuck](https://www.finewoodworking.com/2011/12/08/fix-a-loose-drill-press-chuck)
+
 ## Auxillary Tables
 
 ### Designs
