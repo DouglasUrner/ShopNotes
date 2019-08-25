@@ -17,3 +17,5 @@ Grizley
 [Tuning Your Drill Press](https://www.finewoodworking.com/membership/pdf/22573/011094060.pdf)
 
 [Get More From Your Drill Press](https://www.finewoodworking.com/2006/01/01/get-more-from-your-drill-press) - Basic tune-up and usage. [PDF](https://www.finewoodworking.com/membership/pdf/23415/011182060.pdf)
+
+[A drill press will make you a better woodworker](https://www.finewoodworking.com/2010/10/28/a-drill-press-will-make-you-a-better-woodworker) - [PDF](https://www.finewoodworking.com/membership/pdf/9866/011216022.pdf)
