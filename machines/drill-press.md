@@ -8,7 +8,9 @@ Grizley
 
 ## Auxillary Tables
 
-### Designs
+### Design Ideas
+
+[Woodsmith Plan: Woodworking Drill Press Table](https://www.woodsmithplans.com/plan/woodworking-drill-press-table/) - dust collection, clamping slots & filler blocks.
 
 ### Commercial
 
