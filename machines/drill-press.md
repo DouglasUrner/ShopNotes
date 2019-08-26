@@ -14,6 +14,8 @@ Grizley
 
 ### Design Ideas
 
+[Ronald Walters: Drill Press Table](https://woodgears.ca/reader/walters/drillpress_table.html) - lots of nice ideas: round off-center sacrifficial block, rotates to get you a clean backing and by being off-center it will not spin; extended controls; filler strips to keep t-tracks from filling with debris.
+
 [Woodsmith Plan: Woodworking Drill Press Table](https://www.woodsmithplans.com/plan/woodworking-drill-press-table/) - dust collection, clamping slots & filler blocks.
 
 [Drill Press Table](https://www.woodsmithplans.com/plan/drill-press-table/) - miter gear brings height adjustment to the front of the table.
