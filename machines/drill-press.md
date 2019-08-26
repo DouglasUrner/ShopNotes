@@ -6,6 +6,10 @@ Grizley
 
 [Fix a loose drill press chuck](https://www.finewoodworking.com/2011/12/08/fix-a-loose-drill-press-chuck)
 
+### Bit Storage
+
+[Swiveling Bit-Storage-Shelves](https://www.finewoodworking.com/2011/10/21/swiveling-bit-storage-shelves) - use gate post screws (Lag Screw Hinges) to hold blocks for sets of bits.
+
 ## Auxillary Tables
 
 ### Design Ideas
