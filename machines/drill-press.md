@@ -20,6 +20,8 @@ Grizley
 
 [Drill Press Cabinet On Wheels](https://www.lumberjocks.com/projects/126873) - based on Woodsmith's plans.
 
+ShopNotes #18 had a article on a "micro adjust drill press table."
+
 ### Commercial
 
 ## Dust Collection
