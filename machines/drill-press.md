@@ -16,7 +16,9 @@ Grizley
 
 [Woodsmith Plan: Woodworking Drill Press Table](https://www.woodsmithplans.com/plan/woodworking-drill-press-table/) - dust collection, clamping slots & filler blocks.
 
-[Drill Press Table With A Twist]() - move the height adjustment crank to the front of the table using a pair of [miter gears](https://www.amazon.com/gp/product/B004NYAFLS) to turn and extend the shaft. An extension brings out the table lock.
+[Drill Press Table](https://www.woodsmithplans.com/plan/drill-press-table/) - miter gear brings height adjustment to the front of the table.
+
+[Drill Press Table With A Twist]() - move the height adjustment crank to the front of the table using a pair of [miter gears](https://www.amazon.com/gp/product/B004NYAFLS) to turn and extend the shaft. An extension brings out the table lock. Based on the WoodSmith plans above.
 
 [Drill Press Cabinet On Wheels](https://www.lumberjocks.com/projects/126873) - based on Woodsmith's plans.
 
