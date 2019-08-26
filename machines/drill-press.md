@@ -26,6 +26,8 @@ Grizley
 
 ShopNotes #18 had a article on a "micro adjust drill press table."
 
+[Simple fence and stop block](http://www.woodsmithtips.com/2015/12/17/a-better-drill-press-table/)
+
 ### Commercial
 
 ## Dust Collection
