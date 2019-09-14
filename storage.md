@@ -38,6 +38,10 @@ Depth: 396 mm
 
 [Removing/Swapping Lids](http://festoolownersgroup.com/festool-and-tanos-systainers/changing-lid-on-a-t-loc-systainer/)
 
+### Systainer Hacks
+
+["SYS-MAG" - Or the story of getting magnets to stick on/to Systainer (T-Loc)](https://www.festoolownersgroup.com/festool-and-tanos-systainers/'sys-mag'-or-the-story-of-getting-magnets-to-stick-onto-systainer-(t-loc)/)
+
 ## DIY Sysports
 
 ### Design
