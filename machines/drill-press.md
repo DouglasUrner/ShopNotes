@@ -18,6 +18,11 @@ Grizley
 * Micro-adjusters (M6) for jig registration.
 * Height adjustment and lock brought out so they are easily accessible.
 * T-tracks for fence adjustment.
+* Work clamping options.
+  - MFT grid
+  - Slots for F-clamps
+  - T-track
+* Dust collection.
 
 ### Design Ideas
 
