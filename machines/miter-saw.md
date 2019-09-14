@@ -9,6 +9,8 @@
 
 ### Blades
 
+[Oshlun SBFT-260068A 68 tooth TCG Non-Ferrous](http://www.oshlun.com/fespro_series.html) - nice cuts in brass, but poor dust collection with zero clearance fence/jig.
+
 ### Dimensions
 
 ![](../assets/kapex-dimensions.gif)
