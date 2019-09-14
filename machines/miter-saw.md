@@ -11,6 +11,12 @@
 
 [Oshlun SBFT-260068A 68 tooth TCG Non-Ferrous](http://www.oshlun.com/fespro_series.html) - nice cuts in brass, but poor dust collection with zero clearance fence/jig.
 
+### Accessories
+
+[Cauliflower Zero Clearance Insert]()
+
+[]()
+
 ### Dimensions
 
 ![](../assets/kapex-dimensions.gif)
@@ -58,3 +64,5 @@ Downdraft table provides secondary dust collection, primary is the standard Kape
 [Your Miter Saw Needs a Stand](https://www.finewoodworking.com/2009/12/01/your-miter-saw-needs-a-stand) - [PDF of full article](https://www.finewoodworking.com/membership/pdf/57507/011209052.pdf)
 
 [Fine Homebuilding: Ultimate Miter-Saw Stand](https://www.finehomebuilding.com/2011/03/10/ultimate-miter-saw-stand) - [PDF of full article](https://www.finehomebuilding.com/membership/pdf/5896/021218044.pdf)
+
+[Festool Kapex miter saw custom extension wings, stand](http://forum.toolsinaction.com/topic/5876-video-festool-kapex-miter-saw-custom-extension-wings-stand/) - Uses clamp parts from UG wings on wooden extensions, fence is wood with T-track on back, T-track parallel to the blade is used to hold crown and zero clearance jigs, wings fold up and attach with velcro straps for easy transport.
