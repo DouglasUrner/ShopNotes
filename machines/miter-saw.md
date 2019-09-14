@@ -34,6 +34,7 @@ Working with short cuts (within the length of the saw's intregal fence, before y
 * Metric or Metric/Imperial scales on both sides of the blade.
 * Relatively easy to set zero on the scales.
 * Fence scale should be "direct reading" - the scale distance should directly correspond to the distance from the blade, it should not depend an a particular stop. This means that there is an area with no scale. Solve with a "short piece stop" that reads from an "artifical zero" - something like 500 mm so that conversions can easily be done in your head. Or maybe an auxillary "sub-fence" that has a scale and an adjustable stop that reaches all the way to the blade. It would have a left-to-right reading scale on the left hand side of the blade so that when it was extended fully and touching the blade it reads zero.
+* Peter Parfit's solution is to set the scale at 300 mm and to make an extension on the Flip Stop to reach beyond the blade, then set the stop at 300 mm and cut off the extension to "calibrate" it. The extension could have a rod to match the Flip Stop and register against the stop. Or, a long rod could be used with a trimmable end and a stop to register against the flip arm.
 
 [Kapex and a track and stop system](http://festoolownersgroup.com/festool-jigs-tool-enhancements/kapex-and-a-track-and-stop-system/) - Simple fence and stop from Peter Parfit that connects to crown stops.
 
