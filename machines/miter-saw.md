@@ -65,7 +65,7 @@ Downdraft table provides secondary dust collection, primary is the standard Kape
 
 [Fine Homebuilding: Ultimate Miter-Saw Stand](https://www.finehomebuilding.com/2011/03/10/ultimate-miter-saw-stand) - [PDF of full article](https://www.finehomebuilding.com/membership/pdf/5896/021218044.pdf)
 
-[Multiblades.com UG Bracket and home made Kapex Wings](https://www.festoolownersgroup.com/festool-jigs-tool-enhancements/multiblades-com-ug-bracket-and-home-made-kapex-wings/) - plywood wings with third party ([mutliblades.com](https://multiblades.com)) connectors and MFT hole pattern for clamping.
+[Multiblades.com UG Bracket and home made Kapex Wings](https://www.festoolownersgroup.com/festool-jigs-tool-enhancements/multiblades-com-ug-bracket-and-home-made-kapex-wings/) - plywood wings with third party ([mutliblades.com](https://multiblades.com)) connectors and MFT hole pattern for clamping. Saw is held on modifed Ryobi stand.
 
 [Festool Kapex miter saw custom extension wings, stand](http://forum.toolsinaction.com/topic/5876-video-festool-kapex-miter-saw-custom-extension-wings-stand/) - Uses clamp parts from UG wings on wooden extensions, fence is wood with T-track on back, T-track parallel to the blade is used to hold crown and zero clearance jigs, wings fold up and attach with velcro straps for easy transport.
 
