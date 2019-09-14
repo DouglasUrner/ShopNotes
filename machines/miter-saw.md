@@ -15,7 +15,7 @@
 
 [Cauliflower Zero Clearance Insert]()
 
-[]()
+[Multiblades Kapex UG Bracket](http://multiblades.com/kapex/ka-ugbracket.html) - third-party replacement bracket for Festool Kapex UG wings, can also be used for making wooden wings.
 
 ### Dimensions
 
