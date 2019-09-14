@@ -12,6 +12,13 @@ Grizley
 
 ## Auxillary Tables
 
+### Features
+
+* Round, off-center sacrificial block - rotates to bring clean area into use. Won't rotate. How to easily cut replacements?
+* Micro-adjusters (M6) for jig registration.
+* Height adjustment and lock brought out so they are easily accessible.
+* T-tracks for fence adjustment.
+
 ### Design Ideas
 
 [Ronald Walters: Drill Press Table](https://woodgears.ca/reader/walters/drillpress_table.html) - lots of nice ideas: round off-center sacrifficial block, rotates to get you a clean backing and by being off-center it will not spin; extended controls; filler strips to keep t-tracks from filling with debris.
