@@ -66,3 +66,5 @@ Downdraft table provides secondary dust collection, primary is the standard Kape
 [Fine Homebuilding: Ultimate Miter-Saw Stand](https://www.finehomebuilding.com/2011/03/10/ultimate-miter-saw-stand) - [PDF of full article](https://www.finehomebuilding.com/membership/pdf/5896/021218044.pdf)
 
 [Festool Kapex miter saw custom extension wings, stand](http://forum.toolsinaction.com/topic/5876-video-festool-kapex-miter-saw-custom-extension-wings-stand/) - Uses clamp parts from UG wings on wooden extensions, fence is wood with T-track on back, T-track parallel to the blade is used to hold crown and zero clearance jigs, wings fold up and attach with velcro straps for easy transport.
+
+[Portable Miter Saw Station](https://www.simplecove.com/1215/portable-miter-saw-station/) - similar to Peter Parfit's table with downdraft dust collection.
