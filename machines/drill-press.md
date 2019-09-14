@@ -14,7 +14,7 @@ Grizley
 
 ### Features
 
-* Round, off-center sacrificial block - rotates to bring clean area into use. Won't rotate. How to easily cut replacements?
+* Round, off-center sacrificial block - rotates to bring clean area into use. Won't rotate. How to easily cut replacements? Make block large enough that it can be removed to allow a sanding drum to extend below the table.
 * Micro-adjusters (M6) for jig registration.
 * Height adjustment and lock brought out so they are easily accessible.
 * T-tracks for fence adjustment.
@@ -22,11 +22,13 @@ Grizley
   - MFT grid
   - Slots for F-clamps
   - T-track
-* Dust collection.
+* Dust collection. Downdraft holes around sacrificial block?
+* Extend behind column, space for storing in-use bits.
+* Drawer?
 
 ### Design Ideas
 
-[Ronald Walters: Drill Press Table](https://woodgears.ca/reader/walters/drillpress_table.html) - lots of nice ideas: round off-center sacrifficial block, rotates to get you a clean backing and by being off-center it will not spin; extended controls; filler strips to keep t-tracks from filling with debris.
+[Ronald Walters: Drill Press Table](https://woodgears.ca/reader/walters/drillpress_table.html) - lots of nice ideas: round off-center sacrificial block, rotates to get you a clean backing and by being off-center it will not spin; extended controls; filler strips to keep t-tracks from filling with debris.
 
 [Woodsmith Plan: Woodworking Drill Press Table](https://www.woodsmithplans.com/plan/woodworking-drill-press-table/) - dust collection, clamping slots & filler blocks.
 
