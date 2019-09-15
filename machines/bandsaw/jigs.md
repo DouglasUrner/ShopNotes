@@ -6,9 +6,11 @@ A "pin" follows a template attached to the work. The resulting piece is slightly
 
 Bottom pattern jigs are simpler, but top pattern jigs make it easier to maneuver the pattern to follow the pin.
 
-[Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
-
 ### Bottom Pattern
+
+Blade guide mounted vs. free standing
+
+[Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
 
 [Magnetic Bandsaw Template Jig](https://www.woodsmithplans.com/plan/band-saw-template-jig/) - adjustable height, attaches to table with large rare earth magnets, jack screw releases.
 
