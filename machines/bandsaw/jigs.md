@@ -25,3 +25,5 @@ The effective width of the blade, for determining the radius of curves in the pa
 ### Top Pattern
 
 [Bandsaw Jig for Cutting Simple Curves](https://www.finewoodworking.com/2008/07/01/bandsaw-jig-for-cutting-simple-curves)
+
+![](https://www.finewoodworking.com/app/uploads/2019/07/011277014-main.jpg)[Workshop Tip: Guide Pin Lets You Bandsaw and Rout Curves with the Same Jig](https://www.finewoodworking.com/2019/08/08/workshop-tip-guide-pin-lets-you-bandsaw-and-rout-curves-with-the-same-jig)
