@@ -8,7 +8,11 @@ Bottom pattern jigs are simpler, but top pattern jigs make it easier to maneuver
 
 ### Bottom Pattern
 
-Blade guide mounted vs. free standing
+Blade guide mounted vs. free standing: for top pattern jigs, blade mounted guides make for easier adjustment and leave the table clear of obstructions.
+
+Finger vs. pin: in a finger jig the pattern is guided by a finger that surrounds the blade providing a contact surface in front of and behind the blade, pin jigs only provide a guide in front of the blade.
+
+The effective width of the blade, for determining the radius of curves in the pattern is determined by the size and position of the finger or pin(s). 
 
 [Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
 
@@ -20,3 +24,4 @@ Blade guide mounted vs. free standing
 
 ### Top Pattern
 
+[Bandsaw Jig for Cutting Simple Curves](https://www.finewoodworking.com/2008/07/01/bandsaw-jig-for-cutting-simple-curves)
