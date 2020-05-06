@@ -20,7 +20,7 @@ The effective width of the blade, for determining the radius of curves in the pa
 
 [Brian Boggs’ Guide to Bandsawn Curves - FWW #271](https://www.finewoodworking.com/2018/09/26/brian-boggs-guide-to-bandsawn-curves) - [PDF](https://www.finewoodworking.com/membership/pdf/258725/011271026.pdf)
 
-[Magnetic Bandsaw Template Jig](https://www.woodsmithplans.com/plan/band-saw-template-jig/) - adjustable height, attaches to table with large rare earth magnets, jack screw releases.
+[Magnetic Bandsaw Template Jig](https://www.woodsmithplans.com/plan/band-saw-template-jig/) - adjustable height, attaches to table with large rare earth magnets, jack screw releases. ![](https://s3.amazonaws.com/media.woodsmithplans.com/images/SN11618_band-saw-template-jig/diagram.jpg)
 
 [Bandsaw Pattern Cutting Jig](http://woodarchivist.com/2452-band-saw-pattern-cutting-jig/) - an adjustable arm pattern tracing jig. Made from metal, it mounts on a threaded stud.
 
