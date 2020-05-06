@@ -1,5 +1,9 @@
 # Bandsaw Jigs
 
+## Collections
+
+* [Michael Fortune's **Five Essential Bandsaw Jigs**, FWW 180](https://www.finewoodworking.com/2006/11/01/five-essential-bandsaw-jigs) - [PDF](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf). Jigs for cutting tapers, circles, wedges, and curves.
+
 ## Pattern Tracing
 
 A "pin" follows a template attached to the work. The resulting piece is slightly oversized and is usually trimmed on a table mounted router with a pattern bit.
