@@ -2,7 +2,7 @@
 
 ## Collections
 
-* [Michael Fortune's **Five Essential Bandsaw Jigs**](https://www.finewoodworking.com/2006/11/01/five-essential-bandsaw-jigs) , FWW 180 - [PDF](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf). Jigs for cutting tapers, circles, wedges, and curves.
+* Michael Fortune's [**Five Essential Bandsaw Jigs**](https://www.finewoodworking.com/2006/11/01/five-essential-bandsaw-jigs), FWW 180 - [PDF](https://www.finewoodworking.com/membership/pdf/8860/011180038.pdf). Jigs for cutting tapers, circles, wedges, and curves.
 
 ## Pattern Tracing
 
