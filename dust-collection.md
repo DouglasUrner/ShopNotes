@@ -10,8 +10,8 @@ Blast gates can be equipped with low voltage magnetic reed switches (alarm switc
 
 ## Portable Dust Extractors & Accessories
 
-* [Hose Sleeve](https://www.wirecare.com/interest/car-audio/general-wire-cable-protection/flexo-pet/ptn1.50og-flexo-pet-1-1-2-ogre-25-ft-cuts)
-* [Heat Shrink]()
+* [Hose Sleeve](https://www.wirecare.com/interest/car-audio/general-wire-cable-protection/flexo-pet/ptn1.50og-flexo-pet-1-1-2-ogre-25-ft-cuts) - 1.5" works well for 27mm hose with a power cord.
+* [Heat Shrink]() - 50mm 2:1 shrink
 * [Bags]()
 * [Filters]()
 
