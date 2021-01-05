@@ -10,10 +10,10 @@ Blast gates can be equipped with low voltage magnetic reed switches (alarm switc
 
 ## Portable Dust Extractors & Accessories
 
-[Hose Sleeve](https://www.wirecare.com/interest/car-audio/general-wire-cable-protection/flexo-pet/ptn1.50og-flexo-pet-1-1-2-ogre-25-ft-cuts)
-[Heat Shrink]()
-[Bags]()
-[Filters]()
+* [Hose Sleeve](https://www.wirecare.com/interest/car-audio/general-wire-cable-protection/flexo-pet/ptn1.50og-flexo-pet-1-1-2-ogre-25-ft-cuts)
+* [Heat Shrink]()
+* [Bags]()
+* [Filters]()
 
 ## Stationary Dust Collection System Components
 
