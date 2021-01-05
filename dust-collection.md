@@ -14,6 +14,7 @@ Blast gates can be equipped with low voltage magnetic reed switches (alarm switc
 * [Heat Shrink]() - 50mm 2:1 shrink
 * [Bags]()
 * [Filters]()
+* [Overhead Hose Management]()
 
 ## Stationary Dust Collection System Components
 
