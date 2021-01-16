@@ -81,7 +81,7 @@ Thread on FOG with a very nice hybrid Roubo/MFT bench and 80/20 crosscut and rip
 
 [The Iconic Krenov-Style Sawhorse](https://www.finewoodworking.com/2018/02/06/iconic-krenov-style-sawhorse) - Phillip Morley's video series on making Krenov style sawhorses.
 
-[]() - Mike Farrington's take on Krenov's sawhorse design.
+[The greatest Sawhorses, YES, but do they make a good workbench?](https://www.youtube.com/watch?v=VWgGZ4Osg1U) - Mike Farrington's torsion beam and Krenov-style sawhorse bench. His take on Krenov's sawhorse design begins at 08:42.
 
 [Tri-Horse](http://lumberjocks.com/projects/96307) - [video](https://www.youtube.com/watch?v=kpJcG8J1-bs), [Kickstarter videos](https://www.youtube.com/watch?v=zD3bWB2s5Lk)
 
