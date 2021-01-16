@@ -77,7 +77,7 @@ Thread on FOG with a very nice hybrid Roubo/MFT bench and 80/20 crosscut and rip
 
 ## Sawhorses
 
-[]() - "classic" Krenov sawhorses.
+[Smart Sawhorses](https://www.finewoodworking.com/membership/pdf/57457/011208056.pdf) - FWW editor Anissa Kapsales "classic" Krenov sawhorses.
 
 [The Iconic Krenov-Style Sawhorse](https://www.finewoodworking.com/2018/02/06/iconic-krenov-style-sawhorse) - Phillip Morley's video series on making Krenov style sawhorses.
 
