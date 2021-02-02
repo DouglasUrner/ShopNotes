@@ -26,6 +26,15 @@ Michael Gildersleave's [Transportable System](http://festoolownersgroup.com/fest
 
 [Another DIY MFT Build](https://www.festoolownersgroup.com/festool-jigs-tool-enhancements/another-diy-mft-build)
 
+#### Modular / Small-shop Benches
+
+Modular Workbench & Mobile Tool Stand: [Paoson Woodworking](https://www.paoson.com)
+* [Part 1](https://www.youtube.com/watch?v=jR__Uj7vopI):
+* [Part 2](https://www.youtube.com/watch?v=NbRDc2iID18):
+* [Part 3](https://www.youtube.com/watch?v=yA8bUKLI4Sc):
+* [Plans](https://www.paoson.com/en/shop-woodworking-homemade-tool-furniture-plans/95-homemade-modular-workbench-mobile-tool-stand-plans.html)
+* [YouTube Channel](https://www.youtube.com/channel/UC4PI8VEr1ZaKn4TBcXoy3qg)
+
 #### MFT "Theory & Practice"
 
 Jerry Work's [Getting the Most out of the Festool Multifunction Table](https://service.festoolusa.com/media/pdf/Getting_the_most_from_the_MFT_multifunction_table.pdf)
