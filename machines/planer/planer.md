@@ -1,5 +1,7 @@
 ## Dewalt 735 Planer with Wixey WR510 digital readout
 
+Type 1 (manufactured in Taiwan), type 12 is made in China.
+
 ### Setup & Tuning
 
 * Raising the infeed and outfeed tables about 1-2mm (about the thickness of a penny) can help to prevent snipe, as can supporting the end of the board as it goes in and comes out.
