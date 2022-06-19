@@ -6,12 +6,16 @@
 
 [10 tune-up tips for perfect planing](https://www.woodmagazine.com/woodworking-tools/power/tune-up-tips-for-perfect-planing?mode=step_by_step)
 
+Snipe happens because the feed rollers "float" -- they are pressed down on the lumber by a pair of springs. As the stock moves through the planer it is only supported by one roller as the cut begins and ends. The wood hanging off the planers infeed and outfeed tables can lever the lumber up into the cutter blades causing snipe. Supporting the end of the lumber while only one roller is feeding helps to prevent snipe.
+
 ### Maintenance
 
-[DW735 Planer Deep-Dive Maintenance](https://www.youtube.com/watch?v=vFxEdMJ0IGw)
-[Care and Feeding the DeWalt DW735 Thickness Planer](https://www.youtube.com/watch?v=r_yEwlsYGbU)
-[Thickness Planer Tune Up and Maintenance](https://www.youtube.com/watch?v=QzRJfD7__W4)
-[Fixing a DW735 Planer](https://amymakesstuff.com/2016/03/27/fixing-a-dewalt-dw375-planer/)
+* [DW735 Planer Deep-Dive Maintenance](https://www.youtube.com/watch?v=vFxEdMJ0IGw)
+* [Care and Feeding the DeWalt DW735 Thickness Planer](https://www.youtube.com/watch?v=r_yEwlsYGbU)
+* [Thickness Planer Tune Up and Maintenance](https://www.youtube.com/watch?v=QzRJfD7__W4)
+* [Fixing a DW735 Planer](https://amymakesstuff.com/2016/03/27/fixing-a-dewalt-dw375-planer/)
+
+Roller cleaning: DeWalt recommends using mineral spirts.
 
 ### Jigs & Techniques
 
