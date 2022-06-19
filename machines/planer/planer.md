@@ -8,6 +8,9 @@
 
 ### Maintenance
 
+[DW735 Planer Deep-Dive Maintenance](https://www.youtube.com/watch?v=vFxEdMJ0IGw)
+[Care and Feeding the DeWalt DW735 Thickness Planer](https://www.youtube.com/watch?v=r_yEwlsYGbU)
+[Thickness Planer Tune Up and Maintenance](https://www.youtube.com/watch?v=QzRJfD7__W4)
 [Fixing a DW735 Planer](https://amymakesstuff.com/2016/03/27/fixing-a-dewalt-dw375-planer/)
 
 ### Jigs & Techniques
@@ -29,7 +32,14 @@ Built a similar sled using an Emerson 50" clamp with the locking lever reversed.
 
 ### Accessories & Mods
 
-[Byrd Tool](http://byrdtool.com) - spiral cutter head 
+#### Spiral Cutterhead
+
+Byrd, and maybe others, make two sizes of cutterheads, both the standar OEM diameter and a slightly smaller diameter that can be installed without removing the inserts.
+
+[Byrd Tool](http://byrdtool.com) - 4" (100 mm) radius inserts (according to Lux).
+[Lux](https://luxcutheads.com/LuxCutIIIHead_for_DEWALT_13_INCH_Planer_Model_DW-735_or_DW-735X) - 40 inserts, in four rows. Inserts have a 6" (150 mm) radius, this should result in a shallower scallops for the cutter.
+[Sheartak](https://www.sheartak.com/dewalt-dw735-thickness-planer-oem-spiral-cutterhead) - 40 inserts
+[Grizzly T32591](https://www.grizzly.com/products/grizzly-spiral-cutterhead-for-13-dewalt-planer/t32591) - 30 inserts in three rows.
 
 **[Wixey WR510 Digital Planer Readout](http://www.wixey.com/planer/)**  
 
